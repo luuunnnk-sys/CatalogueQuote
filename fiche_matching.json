@@ -1,0 +1,3452 @@
+{
+  "430140024CS": {
+    "fiche": "Fiche catalogue/Détection incendie/Alarme technique/AT4/CAT-CS_03_12-01_Fiche catalogue - AT4.pdf",
+    "score": 0.519,
+    "product_name": "AT4 CHUBB SECURITE"
+  },
+  "430140040": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/T4RF/CAT-159_Fiche catalogue - Alarme T4 pile RF Chubb.pdf",
+    "score": 1.0,
+    "product_name": "ALARME T4 PILE RF CHUBB"
+  },
+  "430140048": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/T4RF/CAT-158_Fiche catalogue - Alarme T4 SECTEUR RF Chubb.pdf",
+    "score": 1.0,
+    "product_name": "ALARME T4 SECTEUR RF CHUBB"
+  },
+  "630140017CS": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/SON'ECLA/CAT-CS_07_08-02_Fiche catalogue - SON'ECLA TYPE 4 V PILE.pdf",
+    "score": 0.884,
+    "product_name": "SON'ECLA TYPE 4 V PILE CHUBB"
+  },
+  "630140109CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-100_Fiche catalogue - SON'ECLA TYPE 4S NN.pdf",
+    "score": 1.0,
+    "product_name": "SON'ECLA TYPE 4S NN"
+  },
+  "630140100CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-082_Fiche catalogue - SON'ECLA BAASL Ma NFS NN.pdf",
+    "score": 1.2,
+    "product_name": "SON’ECLA BAASL Ma NFS NN"
+  },
+  "630140101CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-083_Fiche catalogue - SON'ECLA BAASL Ma-Me NN.pdf",
+    "score": 1.2,
+    "product_name": "SON’ECLA BAASL Ma-Me NN"
+  },
+  "630140102CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-085_Fiche catalogue - SON'ECLA BAAL Ma NN.pdf",
+    "score": 1.2,
+    "product_name": "SON'ECLA BAAL Ma NN"
+  },
+  "630140103CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-080_Fiche catalogue - SON'ECLA BAASL Sa NFS NN.pdf",
+    "score": 1.2,
+    "product_name": "SON’ECLA BAASL Sa NFS NN"
+  },
+  "630140104CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-081_Fiche catalogue - SON'ECLA BAASL Sa-Me NN.pdf",
+    "score": 1.2,
+    "product_name": "SON’ECLA BAASL Sa-Me NN"
+  },
+  "630140105CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-084_Fiche catalogue - SON'ECLA BAAL Sa NN.pdf",
+    "score": 1.2,
+    "product_name": "SON'ECLA BAAL Sa NN"
+  },
+  "630140106CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_14-03_Fiche catalogue - SON'ECLA BAAS Pr.pdf",
+    "score": 1.153,
+    "product_name": "SON’ECLA BAAS Pr 2B NN"
+  },
+  "630140107CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_14-03_Fiche catalogue - SON'ECLA BAAS Pr.pdf",
+    "score": 1.153,
+    "product_name": "SON’ECLA BAAS Pr 4B NN"
+  },
+  "630140108CS": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_14-03_Fiche catalogue - SON'ECLA BAAS Pr.pdf",
+    "score": 1.153,
+    "product_name": "SON’ECLA BAAS Pr 8B NN"
+  },
+  "640000135": {
+    "fiche": "Fiche catalogue/Détection incendie/DAAF/CAT-041_Fiche catalogue - DAACO 10 LLCO.pdf",
+    "score": 0.688,
+    "product_name": "DAACO 10LLCO"
+  },
+  "640000136": {
+    "fiche": "Fiche catalogue/Détection incendie/DAAF/CAT-042_Fiche catalogue - DAACO 10 LLDCO.pdf",
+    "score": 0.689,
+    "product_name": "DAACO 10LLDCO"
+  },
+  "430140049": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/T4RF/CAT-159_Fiche catalogue - Alarme T4 pile RF Chubb.pdf",
+    "score": 0.542,
+    "product_name": "ALARME MENACE A PILE RF CHUBB"
+  },
+  "512000150": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.484,
+    "product_name": "VARIATION 24V 225W COF.90 V2"
+  },
+  "512000151": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.496,
+    "product_name": "VARIATION 24V 450W COF.90 V2"
+  },
+  "512000152": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.484,
+    "product_name": "VARIATION 48V 225W COF.90 V2"
+  },
+  "512000153": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.484,
+    "product_name": "VARIATION 24V 225W COF.17 V2"
+  },
+  "512000154": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.484,
+    "product_name": "VARIATION 48V 225W COF.17 V2"
+  },
+  "512000155": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.484,
+    "product_name": "VARIATION 24V 225W COF.38 V2"
+  },
+  "512000156": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.496,
+    "product_name": "VARIATION 24V 450W COF.38 V2"
+  },
+  "512000157": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.484,
+    "product_name": "VARIATION 48V 225W COF.38 V2"
+  },
+  "512000158": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-04_Fiche catalogue - VARIATION 940 - Chargeur.pdf",
+    "score": 0.442,
+    "product_name": "VARIATION 24V 225W VERS.CAB V2"
+  },
+  "512000159": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-04_Fiche catalogue - VARIATION 940 - Chargeur.pdf",
+    "score": 0.453,
+    "product_name": "VARIATION 24V 450W VERS.CAB V2"
+  },
+  "512000160": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-04_Fiche catalogue - VARIATION 940 - Chargeur.pdf",
+    "score": 0.442,
+    "product_name": "VARIATION 48V 225W VERS.CAB V2"
+  },
+  "512000161": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.466,
+    "product_name": "VARIATION 24V 225W RACK V2"
+  },
+  "512000162": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.466,
+    "product_name": "VARIATION 24V 450W RACK V2"
+  },
+  "512000163": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.466,
+    "product_name": "VARIATION 48V 225W RACK V2"
+  },
+  "512000164": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.453,
+    "product_name": "MOD VARIATION 24-225 SS BAT V2"
+  },
+  "512000165": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.465,
+    "product_name": "MOD VARIATION 24-450 SS BAT V2"
+  },
+  "512000166": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.453,
+    "product_name": "MOD VARIATION 48-225 SS BAT V2"
+  },
+  "512000167": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.465,
+    "product_name": "MOD VARIATION 48-450 SS BAT V2"
+  },
+  "512000168": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.496,
+    "product_name": "VARIATION 48V 450W COF.90 V2"
+  },
+  "512000169": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.466,
+    "product_name": "VARIATION 48V 450W RACK V2"
+  },
+  "660000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.767,
+    "product_name": "ALIM 24V DEPORT LON LPT"
+  },
+  "660000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.7,
+    "product_name": "ALIM 24V DEPORT LON LPT RACK"
+  },
+  "660000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.767,
+    "product_name": "ALIM 48V DEPORT LON LPT"
+  },
+  "660000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.7,
+    "product_name": "ALIM 48V DEPORT LON LPT RACK"
+  },
+  "P0CC02": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_15_04-01_Fiche catalogue - Parafoudre alimentation 48V.pdf",
+    "score": 0.444,
+    "product_name": "ALIMENTATION ELECTRIQUE 48V"
+  },
+  "660000107": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-104_Fiche catalogue - Imprimante Resonance Rack V3.pdf",
+    "score": 0.411,
+    "product_name": "ALIM  60W RESONANCE RACK V2"
+  },
+  "660000108": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-104_Fiche catalogue - Imprimante Resonance Rack V3.pdf",
+    "score": 0.407,
+    "product_name": "ALIM 120W RESONANCE RACK V2"
+  },
+  "P770000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-160_INFLUENCE - Bloc ALIM 150W IN.pdf",
+    "score": 0.496,
+    "product_name": "BLOC ALIM 150W IN COFFRET"
+  },
+  "P770000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-160_INFLUENCE - Bloc ALIM 150W IN.pdf",
+    "score": 0.508,
+    "product_name": "BLOC ALIM 150W IN RACK"
+  },
+  "P8800005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-160_INFLUENCE - Bloc ALIM 150W IN.pdf",
+    "score": 0.932,
+    "product_name": "BLOC ALIM 150W IN"
+  },
+  "2131100": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-05_Fiche catalogue - PASSAGE MANUEL _ AUTO EXTINCTION.pdf",
+    "score": 0.403,
+    "product_name": "FA EXTINCTION MODE AUTO"
+  },
+  "98314000": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/PANCARTE LUMINEUSE/CAT-CS_07_16-01_Fiche catalogue - PANCARTE LUMINEUSE.pdf",
+    "score": 0.807,
+    "product_name": "PANCARTE LUMINEUSE 2 LIGNES"
+  },
+  "444000028": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_32-01_Fiche catalogue - DAGS 3000RL.pdf",
+    "score": 0.487,
+    "product_name": "DAGS 3000 RL"
+  },
+  "444000029": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/REPORT/CAT-CS_09_02-02_Fiche catalogue - DAGS BZ1L.pdf",
+    "score": 0.684,
+    "product_name": "DAGS BZ 1L"
+  },
+  "640000097": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_31-01_Fiche catalogue - SOLISTA MAXI.pdf",
+    "score": 0.836,
+    "product_name": "SOLISTA MAXI BLANC SOCLE HAUT"
+  },
+  "640000122": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_31-01_Fiche catalogue - SOLISTA MAXI.pdf",
+    "score": 0.43,
+    "product_name": "DVAF SOLISTA ROUGE MUR S. BAS"
+  },
+  "640000123": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_31-01_Fiche catalogue - SOLISTA MAXI.pdf",
+    "score": 0.438,
+    "product_name": "DVAF SOLISTA ROUGE MUR S. HT"
+  },
+  "640000124": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-015_Fiche catalogue - SOLISTA LX.pdf",
+    "score": 0.418,
+    "product_name": "DVAF SOLISTA ROUGE PLAF S BAS"
+  },
+  "640000125": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-015_Fiche catalogue - SOLISTA LX.pdf",
+    "score": 0.442,
+    "product_name": "DVAF SOLISTA ROUGE PLAF S HT"
+  },
+  "430140007": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-173_Fiche catalogue - Sirène ADF DB3 équipée RFL 10K.pdf",
+    "score": 0.512,
+    "product_name": "SIRENE ADF DB3 10KOHM"
+  },
+  "630140201": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-179_Fiche catalogue - Détecteurs VESDA-E VES.pdf",
+    "score": 0.486,
+    "product_name": "HP VES"
+  },
+  "640000126": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-031_Fiche catalogue - Sirène DS ROLP AB.pdf",
+    "score": 0.495,
+    "product_name": "DS ROLP AB SOCLE BAS"
+  },
+  "640000127": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-031_Fiche catalogue - Sirène DS ROLP AB.pdf",
+    "score": 0.491,
+    "product_name": "DS ROLP AB SOCLE HAUT"
+  },
+  "640200005": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.824,
+    "product_name": "STE 510"
+  },
+  "640200006": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-03_Fiche catalogue - Diffuseur SECURIVOC SDS 313WT.pdf",
+    "score": 1.0,
+    "product_name": "DIFFUSEUR SECURIVOC SDS 313WT"
+  },
+  "640200007": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-04_Fiche catalogue - Diffuseur SECURIVOC SDP 1T-G.pdf",
+    "score": 1.0,
+    "product_name": "DIFFUSEUR SECURIVOC SDP 1T/G"
+  },
+  "640200008": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-06_Fiche catalogue - Diffuseur SECURIVOC SATR 4416.pdf",
+    "score": 1.0,
+    "product_name": "DIFFUSEUR SECURIVOC SATR 4416"
+  },
+  "640200010": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/SIRROCO/CAT-013_Fiche catalogue - Sirène SIRROCO-ME.pdf",
+    "score": 0.628,
+    "product_name": "SIRENE SW ME"
+  },
+  "640200021": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/SONOS DC/CAT-CS_07_24-01_Fiche catalogue - SONOS DC.pdf",
+    "score": 0.517,
+    "product_name": "PSS-0089 SONOS DC SOCLE BAS"
+  },
+  "640200022": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/SONOS DC/CAT-CS_07_24-01_Fiche catalogue - SONOS DC.pdf",
+    "score": 0.513,
+    "product_name": "PSS-0089 SONOS DC SOCLE HAUT"
+  },
+  "640200025": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_25-02_Fiche catalogue - NEXUS DL DC.pdf",
+    "score": 0.469,
+    "product_name": "PNS-0001 NEXUS 105 DC"
+  },
+  "640200026": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_25-02_Fiche catalogue - NEXUS DL DC.pdf",
+    "score": 0.469,
+    "product_name": "PNS-0005 NEXUS 120 DC"
+  },
+  "640200027": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_25-02_Fiche catalogue - NEXUS DL DC.pdf",
+    "score": 0.469,
+    "product_name": "PNS-0015 NEXUS 110 DC"
+  },
+  "640200047": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/SYV_C_T_M_L_CLS B_10-60V/CAT-024_Fiche catalogue - Sirène Symphoni SYV.pdf",
+    "score": 0.607,
+    "product_name": "SIRENE SYV"
+  },
+  "640200064": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-103_Fiche catalogue - HP SECURIVOC - SHP 1054.pdf",
+    "score": 0.533,
+    "product_name": "DIFFUSEUR SECURIVOC SHP 1054"
+  },
+  "640200065": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-02_Fiche catalogue - Diffuseur SECURIVOC DSP 15-EExmN(T).pdf",
+    "score": 0.881,
+    "product_name": "DIFFUSEUR SECURIVOC DSP 15-EEX"
+  },
+  "640000130": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-032_Fiche catalogue - Sirène DSDL ROLP VAD.pdf",
+    "score": 0.418,
+    "product_name": "DS DL ROLPVAD"
+  },
+  "640000178": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore_lumineux/CAT-235_Fiche catalogue - SOCLES SQG3 DS - DS DL Rouge - DS DL blanc.pdf",
+    "score": 0.487,
+    "product_name": "SOCLE SQG3 DS DL ROUGE"
+  },
+  "640000179": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore_lumineux/CAT-235_Fiche catalogue - SOCLES SQG3 DS - DS DL Rouge - DS DL blanc.pdf",
+    "score": 0.487,
+    "product_name": "SOCLE SQG3 DS DL BLANC"
+  },
+  "640000233": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-039_Fiche catalogue - DS DL Me SYV VAD.pdf",
+    "score": 0.417,
+    "product_name": "SYV VAD GEN2"
+  },
+  "640200048": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-040_Fiche catalogue - NEXUS PULSE DL DC.pdf",
+    "score": 0.617,
+    "product_name": "ENDA1000-NEXUS PULSE 105 DL/DC"
+  },
+  "640200049": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-040_Fiche catalogue - NEXUS PULSE DL DC.pdf",
+    "score": 0.617,
+    "product_name": "ENDA2000-NEXUS PULSE 110 DL/DC"
+  },
+  "9001545CS": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.633,
+    "product_name": "CONSIGNE UTI.COM-UTI.PACK V4"
+  },
+  "9001603CS": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.738,
+    "product_name": "CONSIGNE UTEX.COM V3"
+  },
+  "9001617": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.738,
+    "product_name": "CONSIGNE CMSI.COM V3"
+  },
+  "9001618": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.65,
+    "product_name": "CONSIGNE MES CMSI.COM V3"
+  },
+  "9001933": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-045_INFLUENCE - INfluence-I ECS.pdf",
+    "score": 0.588,
+    "product_name": "CONSIGNE INFLUENCE-I V3"
+  },
+  "9001934": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-047_INFLUENCE - INfluence-S.pdf",
+    "score": 0.501,
+    "product_name": "CONSIGNE INFLUENCE-S CAT.A V4"
+  },
+  "9001935": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-047_INFLUENCE - INfluence-S.pdf",
+    "score": 0.503,
+    "product_name": "CONSIGNE MES INFLUENCE V3"
+  },
+  "9001939": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-044_Fiche catalogue - INnova-TRE.pdf",
+    "score": 0.61,
+    "product_name": "CONSIGNE INNOVA-TRE EVAC/MES 0"
+  },
+  "9001942": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-053_INFLUENCE - INfluence-I ECS-UGA.pdf",
+    "score": 0.67,
+    "product_name": "CONSIGNE INFLUENCE-I SS UGA V2"
+  },
+  "9001946": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-044_Fiche catalogue - INnova-TRE.pdf",
+    "score": 0.667,
+    "product_name": "CONSIGNE INNOVA-TRE ECS V3"
+  },
+  "9001948": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INitium/CAT-050_Fiche catalogue - INitium-S.pdf",
+    "score": 0.483,
+    "product_name": "CONSIGNE MES INITIUM V0"
+  },
+  "B04425149": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.63,
+    "product_name": "DECLENCHEUR ELECTRIQUE FM"
+  },
+  "B04425165": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.493,
+    "product_name": "DECLENCHEUR ELECTRIQUE VDS"
+  },
+  "427200216": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-074_Fiche catalogue - Boitier de Réarmement à Distance.pdf",
+    "score": 0.517,
+    "product_name": "BOUTON REARMEMENT A DISTANCE"
+  },
+  "427400001": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/BG2E/CAT-091_Fiche catalogue - DM ATEX BG2E.pdf",
+    "score": 0.621,
+    "product_name": "DM BG2E"
+  },
+  "430140041": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/T4RF/CAT-159_Fiche catalogue - Alarme T4 pile RF Chubb.pdf",
+    "score": 0.611,
+    "product_name": "DM T4 RF CHUBB"
+  },
+  "430140050": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/PPMS/CAT-162_Fiche catalogue - PPMS à Pile RF Chubb.pdf",
+    "score": 0.486,
+    "product_name": "DM PPMS NOIR RF CHUBB"
+  },
+  "430140052": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/PPMS/CAT-162_Fiche catalogue - PPMS à Pile RF Chubb.pdf",
+    "score": 0.501,
+    "product_name": "DM PPMS BLEU RF CHUBB"
+  },
+  "430140053": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/PPMS/CAT-162_Fiche catalogue - PPMS à Pile RF Chubb.pdf",
+    "score": 0.409,
+    "product_name": "DM PPMS BLEU RF IP65 CHUBB"
+  },
+  "430140059": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/PPMS/CAT-162_Fiche catalogue - PPMS à Pile RF Chubb.pdf",
+    "score": 0.436,
+    "product_name": "TELECOMMANDE PPMS RF CHUBB"
+  },
+  "443600004": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-05_Fiche catalogue - PASSAGE MANUEL _ AUTO EXTINCTION.pdf",
+    "score": 1.0,
+    "product_name": "PASSAGE MANUEL/AUTO EXTINCTION"
+  },
+  "443600008": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-09_Fiche catalogue - PASSAGE RÉSERVE PRINCIPALE_SECOURS.pdf",
+    "score": 0.42,
+    "product_name": "PASSAGE RESERVE PR/SEC EXT"
+  },
+  "443600009": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-11_Fiche catalogue - DISPOSITIF ARRET D'URGENCE 10080.pdf",
+    "score": 0.938,
+    "product_name": "ARRET D'URGENCE 10080"
+  },
+  "443600012": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-109_Fiche catalogue - EMISSION SECOURS CONTROLEE- 10075.pdf",
+    "score": 0.59,
+    "product_name": "EMISSION SECOURS CONTROL 10075"
+  },
+  "443600013": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-108_Fiche catalogue - EMISSION SECONDAIRE - 10076.pdf",
+    "score": 1.0,
+    "product_name": "EMISSION SECONDAIRE 10076"
+  },
+  "627000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP5A/CAT-CS_05_19-01_Fiche catalogue - MCP5A-RP01SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM MCP5A-RP01SF-A207-01"
+  },
+  "627000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP5A/CAT-CS_05_20-01_Fiche catalogue - MCP5A-RP01SF-A207-01C.pdf",
+    "score": 0.98,
+    "product_name": "DM MCP5A-RP01SF-A207-01C"
+  },
+  "627000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP5A/CAT-CS_05_21-01_Fiche catalogue - MCP5A-RP02SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM MCP5A-RP02SF-A207-01"
+  },
+  "627000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP5A/CAT-CS_05_22-01_Fiche catalogue - MCP5A-RP02SF-A207-01C.pdf",
+    "score": 0.98,
+    "product_name": "DM MCP5A-RP02SF-A207-01C"
+  },
+  "627000005K": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP3A/CAT-CS_05_23-02_Fiche catalogue - MCP3A-R000SF-A207-02.pdf",
+    "score": 0.979,
+    "product_name": "DM MCP3A-R000SF-A207-02"
+  },
+  "627000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP3A/CAT-CS_05_24-01_Fiche catalogue - MCP3A-R000SF-A207-01C.pdf",
+    "score": 0.98,
+    "product_name": "DM MCP3A-R000SF-A207-01C"
+  },
+  "627000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP3A/CAT-CS_05_25-01_Fiche catalogue - MCP3A-G000SF-A207-01.pdf",
+    "score": 0.873,
+    "product_name": "DM MCP3A-G000SF-A207-01C"
+  },
+  "627000008": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP1A/CAT-CS_05_26-01_Fiche catalogue - MCP1A-R910SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM MCP1A-R910SF-A207-01"
+  },
+  "627000009": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP1A/CAT-CS_05_27-01_Fiche catalogue - MCP1A-R910SF-A207-01C.pdf",
+    "score": 0.98,
+    "product_name": "DM MCP1A-R910SF-A207-01C"
+  },
+  "627000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/CAT-CS_05_28-01_Fiche catalogue - MCP4A-G000SF-A207-01.pdf",
+    "score": 0.873,
+    "product_name": "DM MCP4A-G000SF-A207-01C"
+  },
+  "627000011": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP2A/CAT-CS_05_29-01_Fiche catalogue - MCP2A-R910SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM MCP2A-R910SF-A207-01"
+  },
+  "627000012": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP2A/CAT-CS_05_30-01_Fiche catalogue - MCP2A-R910SF-A207-01C.pdf",
+    "score": 0.98,
+    "product_name": "DM MCP2A-R910SF-A207-01C"
+  },
+  "627000014": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/CAT-CS_05_32-01_Fiche catalogue - WCP5A-RP02SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM WCP5A-RP02SF-A207-01"
+  },
+  "627000015": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/CAT-CS_05_33-01_Fiche catalogue - WCP3A-R000SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM WCP3A-R000SF-A207-01"
+  },
+  "627000017": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/CAT-CS_05_31-01_Fiche catalogue - WCP5A-RP01SF-A207-01.pdf",
+    "score": 0.979,
+    "product_name": "DM WCP5A-RP01SF-A207-01"
+  },
+  "627000018": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP1A/CAT-CS_05_27-01_Fiche catalogue - MCP1A-R910SF-A207-01C.pdf",
+    "score": 0.467,
+    "product_name": "DM WCP1A-Y910SF-A207-01C"
+  },
+  "627000019": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/CAT-CS_05_36-01_Fiche catalogue - WCP2A-R820SF-A207-01C.pdf",
+    "score": 0.98,
+    "product_name": "DM WCP2A-R820SF-A207-01C"
+  },
+  "627000026": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/MCP3A/CAT-CS_05_23-03_Fiche catalogue - MCP3A-R000SF-A207-03.pdf",
+    "score": 0.893,
+    "product_name": "MCP3A-R000SF-A207-03C"
+  },
+  "641000019": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-05_Fiche catalogue - UAI 2B SPECTRAL LON FTT.pdf",
+    "score": 0.562,
+    "product_name": "SPECTRAL DM+ V2"
+  },
+  "641000020": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-05_Fiche catalogue - UAI 2B SPECTRAL LON FTT.pdf",
+    "score": 0.55,
+    "product_name": "SPECTRAL DM WP V2"
+  },
+  "KDGX700": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.464,
+    "product_name": "DECLENCHEUR MANUEL DE SECOURS"
+  },
+  "P0M395": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.479,
+    "product_name": "DECLENCHEUR MANUEL DESENFUMAGE"
+  },
+  "KDGX705": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.403,
+    "product_name": "DECLENCHEUR PNEU/MANUEL SECOUR"
+  },
+  "P0M479": {
+    "fiche": "Fiche catalogue/Extinction/Détecteur _ socle/CAT-CS_F_08-05_Fiche catalogue - DÉTECTEUR THERMO PNEU.pdf",
+    "score": 0.401,
+    "product_name": "THERMO DECLENCHEUR PNEU 68°C"
+  },
+  "440110902": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-067_Fiche catalogue - VESDA-E VEU-A00-NF _ VEU-A10-NF.pdf",
+    "score": 0.446,
+    "product_name": "VESDA-E VEA40 RELAY LOCAL STX"
+  },
+  "443600100": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.41,
+    "product_name": "MODULASER MOD AFF MINI"
+  },
+  "443600101": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.402,
+    "product_name": "MODULASER MOD AFFICH ECRAN"
+  },
+  "443600102": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.444,
+    "product_name": "MODULASER MOD COMMANDE"
+  },
+  "440100320": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_07-01_Fiche catalogue - FILTRE DAS.pdf",
+    "score": 0.44,
+    "product_name": "FILTRE VEA"
+  },
+  "440100335": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-CS_04_100-01_Fiche catalogue - VESDA LASER SCANNER.pdf",
+    "score": 0.453,
+    "product_name": "VES SCANNER MANIFOLD - MK4"
+  },
+  "440100968": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_35-01_Fiche catalogue - SMOKE PEN.pdf",
+    "score": 0.418,
+    "product_name": "SMOKE PELLETS"
+  },
+  "440102936": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_99-02_Fiche catalogue - Détecteur multi ponctuel - Filtre en ligne.pdf",
+    "score": 0.864,
+    "product_name": "FILTRE EN LIGNE"
+  },
+  "440103926": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-054_Fiche catalogue - Soufflage automatique Vesda - THE PAC.pdf",
+    "score": 0.444,
+    "product_name": "PAC_RP"
+  },
+  "443600105": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.448,
+    "product_name": "MODULASER PRE-FILTRE"
+  },
+  "443600106": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.448,
+    "product_name": "MODULASER FILTRE EXT"
+  },
+  "443600107": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.433,
+    "product_name": "MODULASER RECHAUFFEUR D'AIR"
+  },
+  "7492910": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-061_Fiche catalogue - VESDA VLS.pdf",
+    "score": 0.44,
+    "product_name": "PVC LABEL VESDA SMOKE"
+  },
+  "7492941": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-065_Fiche catalogue - VESDA VLF 500.pdf",
+    "score": 0.417,
+    "product_name": "ASPIRATEUR POUR VLF 500"
+  },
+  "7492942": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_99-02_Fiche catalogue - Détecteur multi ponctuel - Filtre en ligne.pdf",
+    "score": 0.43,
+    "product_name": "REGARGE FILTRE EN LIGNE (x4)"
+  },
+  "7492944": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-064_Fiche catalogue - VESDA VLF 250.pdf",
+    "score": 0.417,
+    "product_name": "ASPIRATEUR POUR VLF 250"
+  },
+  "443200024": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.795,
+    "product_name": "CLIP DLD 2000"
+  },
+  "640400010": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSID/CAT-018_Fiche catalogue - Détecteur de fumée - OSID.pdf",
+    "score": 0.456,
+    "product_name": "COFFRET IP66 RECEPTEUR OSID"
+  },
+  "640400011": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-172_Fiche catalogue - Fournisseur - OSID.pdf",
+    "score": 0.457,
+    "product_name": "COFFRET IP66 EMETTEUR OSID"
+  },
+  "640400013": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSID/CAT-018_Fiche catalogue - Détecteur de fumée - OSID.pdf",
+    "score": 0.471,
+    "product_name": "GRILLE DE PROTECTION OSID"
+  },
+  "640400016": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-172_Fiche catalogue - Fournisseur - OSID.pdf",
+    "score": 0.469,
+    "product_name": "FILMS EMETTEUR OSID (x10)"
+  },
+  "440100095": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-Fich E 126_Fiche catalogue - GRILLE DE PROTECTION.PDF",
+    "score": 0.415,
+    "product_name": "GRILLE DE PROTECTION DETECTEUR"
+  },
+  "440100293": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_12-03_Fiche catalogue - DG13 V2.pdf",
+    "score": 0.561,
+    "product_name": "DETECTEUR DE GAINE DG13 V2"
+  },
+  "440100294": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_12-04_Fiche catalogue - DG13 ADRESSÉ V2.pdf",
+    "score": 0.714,
+    "product_name": "DETEC GAINE DG13 ADRESSE V2"
+  },
+  "640000029": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_75-02_Fiche catalogue - SOCLE I.Scan+.pdf",
+    "score": 0.51,
+    "product_name": "BOITIER SAILLIE I.SCAN +"
+  },
+  "640000150": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_55-01_Fiche catalogue - Socle C.Scan+.pdf",
+    "score": 0.479,
+    "product_name": "SUPPORT MONTAGE R.SCAN+(x1)"
+  },
+  "640000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_51-01_Fiche catalogue - C.Scan+ M.pdf",
+    "score": 0.77,
+    "product_name": "C.SCAN+ M MULTICAPTEURS CONV"
+  },
+  "640000002R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_51-01_Fiche catalogue - C.Scan+ M.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION C.SCAN+ M"
+  },
+  "640000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_51-01_Fiche catalogue - C.Scan+ M.pdf",
+    "score": 0.77,
+    "product_name": "C.SCAN M MULTICAPTEURS CONV"
+  },
+  "640000013R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-01_Fiche catalogue - I.Scan M.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION I.SCAN M"
+  },
+  "640000068": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 1.4,
+    "product_name": "I.SCAN+ M ICC"
+  },
+  "640000068BK": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 1.215,
+    "product_name": "I.SCAN+ M ICC NOIR"
+  },
+  "640000068BR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 1.08,
+    "product_name": "RENOVATION I.SCAN+ M ICC NOIR"
+  },
+  "640000068R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 1.172,
+    "product_name": "RENOVATION I.SCAN+ M ICC"
+  },
+  "640000068WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 1.207,
+    "product_name": "I.SCAN+ M ICC BLANC"
+  },
+  "640000068WR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 1.076,
+    "product_name": "RENOVATION I.SCAN+M ICC BLANC"
+  },
+  "640000087": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/Détecteur _ Socle/CAT-CS_04_85-02_Fiche catalogue - Détecteur, déclencheur et interface radio - Gamme SG.Scan.pdf",
+    "score": 0.48,
+    "product_name": "R.SCAN+ M MULTI CAPTEURS RADIO"
+  },
+  "028230000": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-241_Fiche catalogue - Détecteur linéaire - Fireray One.pdf",
+    "score": 0.482,
+    "product_name": "DETECTEUR LINEAIRE 100M"
+  },
+  "028230001": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-241_Fiche catalogue - Détecteur linéaire - Fireray One.pdf",
+    "score": 0.486,
+    "product_name": "DETECTEUR LINEAIRE 10M"
+  },
+  "443200001": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.759,
+    "product_name": "DLD 2000 88°C EPC"
+  },
+  "443200015": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.685,
+    "product_name": "DLD 2000 180°C EPC"
+  },
+  "443200016": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.759,
+    "product_name": "DLD 2000  68°C EPR"
+  },
+  "443200017": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.759,
+    "product_name": "DLD 2000  88°C EPR"
+  },
+  "443200018": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.685,
+    "product_name": "DLD 2000 138°C XCR"
+  },
+  "443200019": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.685,
+    "product_name": "DLD 2000 180°C XCR"
+  },
+  "443200020": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.759,
+    "product_name": "DLD 2000  88°C XCR"
+  },
+  "443200901": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.685,
+    "product_name": "DLD 2000 138°C EPC"
+  },
+  "443200902": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.759,
+    "product_name": "DLD 2000  68°C EPC"
+  },
+  "443200953": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.685,
+    "product_name": "DLD 2000 105°C XCR"
+  },
+  "640000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_53-01_Fiche catalogue - C.Scan+ T.pdf",
+    "score": 0.767,
+    "product_name": "C.SCAN+ T THERMOSTATIQUE CONV"
+  },
+  "640000004R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_53-01_Fiche catalogue - C.Scan+ T.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION C.SCAN+ T"
+  },
+  "640000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_54-01_Fiche catalogue - C.Scan+ TV.pdf",
+    "score": 0.792,
+    "product_name": "C.SCAN+ TV THERMOVELO CONV"
+  },
+  "640000005R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_54-01_Fiche catalogue - C.Scan+ TV.pdf",
+    "score": 0.886,
+    "product_name": "RENOVATION C.SCAN+ TV"
+  },
+  "640000009": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_53-01_Fiche catalogue - C.Scan+ T.pdf",
+    "score": 0.767,
+    "product_name": "C.SCAN T THERMOSTATIQUE CONV"
+  },
+  "640000009R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_53-01_Fiche catalogue - C.Scan+ T.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION C.SCAN T"
+  },
+  "640000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_54-01_Fiche catalogue - C.Scan+ TV.pdf",
+    "score": 0.792,
+    "product_name": "C.SCAN TV THERMOVELO CONV"
+  },
+  "640000010R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_54-01_Fiche catalogue - C.Scan+ TV.pdf",
+    "score": 0.886,
+    "product_name": "RENOVATION C.SCAN TV"
+  },
+  "640000015R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_73-01_Fiche catalogue - I.Scan T.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION I.SCAN T"
+  },
+  "640000016R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-01_Fiche catalogue - I.Scan TV.pdf",
+    "score": 0.886,
+    "product_name": "RENOVATION I.SCAN TV"
+  },
+  "640000073": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-02_Fiche catalogue - I.Scan+ TV ICC.pdf",
+    "score": 1.4,
+    "product_name": "I.SCAN+ TV ICC"
+  },
+  "640000073BK": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-02_Fiche catalogue - I.Scan+ TV ICC.pdf",
+    "score": 1.218,
+    "product_name": "I.SCAN+ TV ICC NOIR"
+  },
+  "640000073BR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-02_Fiche catalogue - I.Scan+ TV ICC.pdf",
+    "score": 1.086,
+    "product_name": "RENOVATION I.SCAN+ TV ICC NOIR"
+  },
+  "640000073R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-02_Fiche catalogue - I.Scan+ TV ICC.pdf",
+    "score": 1.177,
+    "product_name": "RENOVATION I.SCAN+ TV ICC"
+  },
+  "640000073WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-02_Fiche catalogue - I.Scan+ TV ICC.pdf",
+    "score": 1.21,
+    "product_name": "I.SCAN+ TV ICC BLANC"
+  },
+  "640000073WR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_74-02_Fiche catalogue - I.Scan+ TV ICC.pdf",
+    "score": 1.086,
+    "product_name": "RENOVATION I.SCAN+ TV ICC BLAN"
+  },
+  "640000075": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_73-02_Fiche catalogue - I.Scan+ T58 ICC.pdf",
+    "score": 1.09,
+    "product_name": "I.SCAN+ T 58 ICC"
+  },
+  "640000075WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_73-02_Fiche catalogue - I.Scan+ T58 ICC.pdf",
+    "score": 0.907,
+    "product_name": "I.SCAN+ T 58 ICC BLANC"
+  },
+  "640000077": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_73-03_Fiche catalogue - I.Scan+ T78 ICC.pdf",
+    "score": 1.09,
+    "product_name": "I.SCAN+ T 78 ICC"
+  },
+  "640000077WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_73-03_Fiche catalogue - I.Scan+ T78 ICC.pdf",
+    "score": 0.907,
+    "product_name": "I.SCAN+ T 78 ICC BLANC"
+  },
+  "640000088": {
+    "fiche": "Fiche catalogue/Détection incendie/Radio/Détecteur _ Socle/CAT-CS_04_85-02_Fiche catalogue - Détecteur, déclencheur et interface radio - Gamme SG.Scan.pdf",
+    "score": 0.572,
+    "product_name": "R.SCAN+ TV THERMOVELO RADIO"
+  },
+  "640000089": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_73-02_Fiche catalogue - I.Scan+ T58 ICC.pdf",
+    "score": 0.561,
+    "product_name": "R.SCAN+ T58 THERMOSTAT RADIO"
+  },
+  "443200111": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_101-01_Fiche catalogue - Détecteur de flammes UV -55000-025 APOLLO.pdf",
+    "score": 0.593,
+    "product_name": "DETECTEUR 55000-025"
+  },
+  "640000035": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VIREX/CAT-CS_04_78-03_Fiche catalogue - VIREX.pdf",
+    "score": 0.65,
+    "product_name": "VIREX DOUBLE IR."
+  },
+  "640000164": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-176_Fiche catalogue - Détecteur de flammes IRY2.pdf",
+    "score": 0.783,
+    "product_name": "IRY2"
+  },
+  "28220102": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSID/CAT-018_Fiche catalogue - Détecteur de fumée - OSID.pdf",
+    "score": 0.963,
+    "product_name": "DETECTEUR DE FUMEE"
+  },
+  "440100133": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-009_Fiche catalogue - VESDA Laser PLUS.pdf",
+    "score": 1.24,
+    "product_name": "VESDA LASER PLUS NF SEUL"
+  },
+  "440100137": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-007_Fiche catalogue - VESDA Laser COMPACT.pdf",
+    "score": 1.378,
+    "product_name": "VESDA LASER COMPACT RO"
+  },
+  "440100152": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-CS_04_82-01_Fiche catalogue - VESDA LASER FOCUS 250.pdf",
+    "score": 0.98,
+    "product_name": "VESDA LASER FOCUS VLF250"
+  },
+  "440100152R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-CS_04_82-01_Fiche catalogue - VESDA LASER FOCUS 250.pdf",
+    "score": 0.98,
+    "product_name": "VESDA LASER FOCUS VLF250"
+  },
+  "440100153": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-CS_04_82-01_Fiche catalogue - VESDA LASER FOCUS 250.pdf",
+    "score": 0.967,
+    "product_name": "VESDA LASER FOCUS VLF500"
+  },
+  "440100167": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-036_Fiche catalogue - VESDA VLI.pdf",
+    "score": 0.967,
+    "product_name": "VESDA VLI-88000-NF"
+  },
+  "440100168": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-036_Fiche catalogue - VESDA VLI.pdf",
+    "score": 0.967,
+    "product_name": "VESDA VLI-88500-NF"
+  },
+  "440100300": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-067_Fiche catalogue - VESDA-E VEU-A00-NF _ VEU-A10-NF.pdf",
+    "score": 0.854,
+    "product_name": "VEU-A00-NF"
+  },
+  "440100301": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-067_Fiche catalogue - VESDA-E VEU-A00-NF _ VEU-A10-NF.pdf",
+    "score": 0.854,
+    "product_name": "VEU-A10-NF"
+  },
+  "440100311": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/ILS-1-NFILS-2-NF/CAT-094_Fiche catalogue - ICAM - ILS-1-NF - ILS-2-NF.pdf",
+    "score": 0.86,
+    "product_name": "ILS-1-NF"
+  },
+  "440100312": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/ILS-1-NFILS-2-NF/CAT-094_Fiche catalogue - ICAM - ILS-1-NF - ILS-2-NF.pdf",
+    "score": 0.86,
+    "product_name": "ILS-2-NF"
+  },
+  "443600103": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.575,
+    "product_name": "MODULASER MOD DETECTEUR"
+  },
+  "640000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_52-01_Fiche catalogue - C.Scan+ O.pdf",
+    "score": 0.799,
+    "product_name": "C.SCAN+ O OPTIQUE CONV"
+  },
+  "640000003R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_52-01_Fiche catalogue - C.Scan+ O.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION C.SCAN+ O"
+  },
+  "640000007R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_51-01_Fiche catalogue - C.Scan+ M.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION C.SCAN M"
+  },
+  "640000008": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_52-01_Fiche catalogue - C.Scan+ O.pdf",
+    "score": 0.799,
+    "product_name": "C.SCAN O OPTIQUE CONV"
+  },
+  "640000008R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_52-01_Fiche catalogue - C.Scan+ O.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION C.SCAN O"
+  },
+  "640000014R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION I.SCAN O"
+  },
+  "640000066": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan+ O ICC/CAT-CS_04_72-03_Fiche catalogue - I.Scan+ O ICC.pdf",
+    "score": 1.4,
+    "product_name": "I.SCAN+ O ICC"
+  },
+  "640000066BK": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan+ O ICC/CAT-CS_04_72-03_Fiche catalogue - I.Scan+ O ICC.pdf",
+    "score": 1.215,
+    "product_name": "I.SCAN+ O ICC NOIR"
+  },
+  "640000066BR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan+ O ICC/CAT-CS_04_72-03_Fiche catalogue - I.Scan+ O ICC.pdf",
+    "score": 1.08,
+    "product_name": "RENOVATION I.SCAN+ O ICC NOIR"
+  },
+  "640000066R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan+ O ICC/CAT-CS_04_72-03_Fiche catalogue - I.Scan+ O ICC.pdf",
+    "score": 1.172,
+    "product_name": "RENOVATION I.SCAN+ O ICC"
+  },
+  "640000066WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan+ O ICC/CAT-CS_04_72-03_Fiche catalogue - I.Scan+ O ICC.pdf",
+    "score": 1.207,
+    "product_name": "I.SCAN+ O ICC BLANC"
+  },
+  "640000066WR": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICC/CAT-CS_01_72-02_Fiche catalogue - ICC I.Scan Filaire.pdf",
+    "score": 0.76,
+    "product_name": "RENOVATION I.SCAN+ ICC BLANC"
+  },
+  "640000067": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 1.2,
+    "product_name": "I.SCAN+ O"
+  },
+  "640000067BK": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 0.929,
+    "product_name": "I.SCAN+ O NOIR"
+  },
+  "640000067BR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 0.783,
+    "product_name": "RENOVATION I.SCAN+ O NOIR"
+  },
+  "640000067R": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 0.878,
+    "product_name": "RENOVATION  I.SCAN+ O"
+  },
+  "640000067WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 0.918,
+    "product_name": "I.SCAN+ O BLANC"
+  },
+  "640000067WR": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_72-01_Fiche catalogue - I.Scan O.pdf",
+    "score": 0.779,
+    "product_name": "RENOVATION I.SCAN+ O BLANC"
+  },
+  "640000137": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_52-01_Fiche catalogue - C.Scan+ O.pdf",
+    "score": 0.863,
+    "product_name": "R.SCAN+ O"
+  },
+  "640000162": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-157_Fiche catalogue - LASER.Scan 2.pdf",
+    "score": 1.4,
+    "product_name": "LASER.SCAN 2"
+  },
+  "640400023": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSI/CAT-165_Fiche catalogue - Détecteur OSI-RIE-4.pdf",
+    "score": 0.405,
+    "product_name": "OSI-RIE-4 ADRESSABLE"
+  },
+  "444000026": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/IA/CAT-CS_04_26-01_Fiche catalogue - IA 2000.pdf",
+    "score": 1.0,
+    "product_name": "IA 2000"
+  },
+  "444000027": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/IA/CAT-CS_04_27-01_Fiche catalogue - IA 2000-B.pdf",
+    "score": 1.0,
+    "product_name": "IA 2000-B"
+  },
+  "640000064": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_04_61-01_Fiche catalogue - Socle Buzzer Scan.pdf",
+    "score": 1.2,
+    "product_name": "SOCLE BUZZER SCAN"
+  },
+  "640000155": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_04_85-01_Fiche catalogue - GAMME RADIO.pdf",
+    "score": 0.621,
+    "product_name": "IA RADIO"
+  },
+  "2730820": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_75-02_Fiche catalogue - SOCLE I.Scan+.pdf",
+    "score": 0.409,
+    "product_name": "SOCLE IMAGE"
+  },
+  "28260001": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSID/CAT-018_Fiche catalogue - Détecteur de fumée - OSID.pdf",
+    "score": 0.404,
+    "product_name": "BASE RELAIS DETECTEUR DE FUMEE"
+  },
+  "440100035": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-130_Fiche catalogue - Socle haut S3 - C.Scan+.pdf",
+    "score": 1.2,
+    "product_name": "SOCLE HAUT S3/C.SCAN +"
+  },
+  "440100068": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/CAT-CS_08_05-01_Fiche catalogue - POWER MASTER 1000.pdf",
+    "score": 0.529,
+    "product_name": "S3 1000 B G"
+  },
+  "640000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_55-01_Fiche catalogue - Socle C.Scan+.pdf",
+    "score": 1.2,
+    "product_name": "SOCLE C.SCAN+"
+  },
+  "640000011": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_55-01_Fiche catalogue - Socle C.Scan+.pdf",
+    "score": 1.2,
+    "product_name": "SOCLE C.SCAN"
+  },
+  "640000037": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/SV-S95_EX/CAT-CS_04_78-04_Fiche catalogue - SV-S95_EX.pdf",
+    "score": 0.725,
+    "product_name": "SOCLE SV-S95/Ex"
+  },
+  "640000079": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_75-02_Fiche catalogue - SOCLE I.Scan+.pdf",
+    "score": 1.2,
+    "product_name": "SOCLE I.SCAN+"
+  },
+  "640000079BK": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_75-02_Fiche catalogue - SOCLE I.Scan+.pdf",
+    "score": 1.015,
+    "product_name": "SOCLE I.SCAN+ NOIR"
+  },
+  "640000079WH": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_75-02_Fiche catalogue - SOCLE I.Scan+.pdf",
+    "score": 1.007,
+    "product_name": "SOCLE I.SCAN+ BLANC"
+  },
+  "640000099": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_55-01_Fiche catalogue - Socle C.Scan+.pdf",
+    "score": 0.68,
+    "product_name": "SOCLE R.SCAN+ B501RF"
+  },
+  "640000158": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/S05EX/CAT-090_Fiche catalogue - Socle S05EX.pdf",
+    "score": 1.0,
+    "product_name": "SOCLE S05EX"
+  },
+  "446300035CS": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/DAD SECOURU/CAT-CS_04_24-01_Fiche catalogue - DAD SECOURU.pdf",
+    "score": 0.678,
+    "product_name": "DAD SECOURU CHUBB SECURITE"
+  },
+  "680000080": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-171_Fiche catalogue - PC standard W11 64 bits.pdf",
+    "score": 1.0,
+    "product_name": "PC STANDARD W11 64 BITS"
+  },
+  "430110002": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-116_Fiche catalogue - Maintien magnétique 48V Rupture + Socle articulé.pdf",
+    "score": 0.472,
+    "product_name": "MAINT.MAGN.48V+SOCLE ARTICULE"
+  },
+  "430110004": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-117_Fiche catalogue - Maintien magnétique 24V Emission 20KG.pdf",
+    "score": 0.493,
+    "product_name": "MAINTIEN MAGN.24V EMIS. 20KG"
+  },
+  "430110005": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-118_Fiche catalogue - Maintien magnétique 48V Emission 20KG.pdf",
+    "score": 0.493,
+    "product_name": "MAINTIEN MAGN.48V EMIS. 20KG"
+  },
+  "430110925": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-121_Fiche catalogue - Maintien magnétique 24V Rupture 50KG.pdf",
+    "score": 0.4,
+    "product_name": "MAINT MAGN 24V RUPT 50KG"
+  },
+  "430110937": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-119_Fiche catalogue - Maintien magnétique 24V Rupture 20KG PA.pdf",
+    "score": 0.405,
+    "product_name": "MAINT.MAGN. 24V RUPT 20KG PA"
+  },
+  "430110946": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-122_Fiche catalogue - Maintien magnétique 48V Rupture 50KG.pdf",
+    "score": 0.4,
+    "product_name": "MAINT.MAGN. 48V RUPT 50KG"
+  },
+  "430110962": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-120_Fiche catalogue - Maintien magnétique 48V Rupture 20KG PA.pdf",
+    "score": 0.405,
+    "product_name": "MAINT.MAGN. 48V RUPT 20KG PA"
+  },
+  "640000109": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-060_Fiche catalogue - Dispositif Adaptateur de Commande - DAC EE.pdf",
+    "score": 0.778,
+    "product_name": "DAC EE"
+  },
+  "630000009": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_41-01_Fiche catalogue - CF 16F Lon FTT.pdf",
+    "score": 1.0,
+    "product_name": "CF 16F LON FTT"
+  },
+  "630000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_43-01_Fiche catalogue - CF16ZA UGA-IGH Lon FTT.pdf",
+    "score": 0.613,
+    "product_name": "CF 16ZA UGA IGH LON FTT"
+  },
+  "630000011": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_42-01_Fiche catalogue - CF 8F_2ZA Lon FTT.pdf",
+    "score": 1.0,
+    "product_name": "CF  8F/2ZA LON FTT"
+  },
+  "630000012": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_39-01_Fiche catalogue - CF 4ZA Lon FTT.pdf",
+    "score": 1.0,
+    "product_name": "CF  4ZA LON FTT"
+  },
+  "630000014": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-02_Fiche catalogue - CFC 2F DIRECTE.pdf",
+    "score": 1.0,
+    "product_name": "CFC 2F DIRECTE"
+  },
+  "630000015": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-03_Fiche catalogue - CFC 3-7F DIRECTE.pdf",
+    "score": 0.68,
+    "product_name": "CFC 3F DIRECTE"
+  },
+  "630000016": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-03_Fiche catalogue - CFC 3-7F DIRECTE.pdf",
+    "score": 0.68,
+    "product_name": "CFC 7F DIRECTE"
+  },
+  "630000018": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-03_Fiche catalogue - CFC 3-7F DIRECTE.pdf",
+    "score": 0.507,
+    "product_name": "CFC 7F DIRECTE RACK"
+  },
+  "P760000017": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-142_INFLUENCE - Carte Face avant 2ZA CAN.pdf",
+    "score": 0.908,
+    "product_name": "FACE AVANT 2ZA CAN"
+  },
+  "P760000018": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-145_INFLUENCE - Carte Face avant 8F CAN.pdf",
+    "score": 0.904,
+    "product_name": "FACE AVANT 8F CAN"
+  },
+  "P760000021": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-143_INFLUENCE - Carte 2F DIRECTE CAN.pdf",
+    "score": 0.94,
+    "product_name": "CARTE 2F DIRECTE CAN"
+  },
+  "P760000022": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-144_INFLUENCE - Module xF_xV DIRECTE CAN.pdf",
+    "score": 0.488,
+    "product_name": "MODULE 4F/4V DIRECT CAN"
+  },
+  "P760000023": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-144_INFLUENCE - Module xF_xV DIRECTE CAN.pdf",
+    "score": 0.488,
+    "product_name": "MODULE 8F/8V DIRECT CAN"
+  },
+  "P760000024": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-144_INFLUENCE - Module xF_xV DIRECTE CAN.pdf",
+    "score": 0.403,
+    "product_name": "MODULE 8F/8V DIRECT CAN RACK"
+  },
+  "610000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_58-01_Fiche catalogue - UAC DIRECTE.pdf",
+    "score": 0.694,
+    "product_name": "UAC  8ZD/ 8R DIRECTE"
+  },
+  "610000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_58-01_Fiche catalogue - UAC DIRECTE.pdf",
+    "score": 0.613,
+    "product_name": "UAC 16ZD/16R DIRECTE"
+  },
+  "610000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_58-01_Fiche catalogue - UAC DIRECTE.pdf",
+    "score": 0.543,
+    "product_name": "UAC 16ZD/16R DIRECTE RACK"
+  },
+  "610000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_63-01_Fiche catalogue - UAC LON FTT.pdf",
+    "score": 0.744,
+    "product_name": "UAC 16ZD LON FTT"
+  },
+  "610000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_63-01_Fiche catalogue - UAC LON FTT.pdf",
+    "score": 0.653,
+    "product_name": "UAC 16ZD/16R LON FTT"
+  },
+  "610000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_63-01_Fiche catalogue - UAC LON FTT.pdf",
+    "score": 0.583,
+    "product_name": "UAC 16ZD/16R LON FTT RACK"
+  },
+  "610000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-01_Fiche catalogue - UAI 2B I.Scan LON FTT.pdf",
+    "score": 1.4,
+    "product_name": "UAI 2B I SCAN LON FTT"
+  },
+  "610000008": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-01_Fiche catalogue - UAI 2B I.Scan LON FTT.pdf",
+    "score": 1.288,
+    "product_name": "UAI 2B I SCAN LON FTT RACK"
+  },
+  "610000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-02_Fiche catalogue - UAI 2B AD1000 Lon FTT.pdf",
+    "score": 1.2,
+    "product_name": "UAI 2B AD1000 LON FTT"
+  },
+  "620000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_64-01_Fiche catalogue - UCR LON FTT.pdf",
+    "score": 0.713,
+    "product_name": "UCR+ 8 RELAIS LON FTT"
+  },
+  "620000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_64-01_Fiche catalogue - UCR LON FTT.pdf",
+    "score": 0.706,
+    "product_name": "UCR+ 16 RELAIS LON FTT"
+  },
+  "620000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_64-01_Fiche catalogue - UCR LON FTT.pdf",
+    "score": 0.618,
+    "product_name": "UCR+ 16 RELAIS LON FTT RACK"
+  },
+  "650000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_60-01_Fiche catalogue - DEPORT LON FTT.pdf",
+    "score": 1.0,
+    "product_name": "DEPORT LON FTT"
+  },
+  "650000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_60-01_Fiche catalogue - DEPORT LON FTT.pdf",
+    "score": 0.855,
+    "product_name": "DEPORT LON FTT RACK"
+  },
+  "650000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 1.0,
+    "product_name": "DEPORT LON LPT"
+  },
+  "650000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.855,
+    "product_name": "DEPORT LON LPT RACK"
+  },
+  "CE01006A": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-146_INFLUENCE - Carte UAI 2B DIRECTE IN.pdf",
+    "score": 1.146,
+    "product_name": "CARTE UAI 2B DIRECTE IN"
+  },
+  "P760000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 1.135,
+    "product_name": "CARTE UAC 16ZD CAN"
+  },
+  "P760000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.732,
+    "product_name": "CARTE UAC 16ZD CAN RACK"
+  },
+  "P760000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.834,
+    "product_name": "CARTE UCR 12 RELAIS CAN"
+  },
+  "P760000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.834,
+    "product_name": "CARTE UCR 24 RELAIS CAN"
+  },
+  "P760000008": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.736,
+    "product_name": "CARTE UCR 24 RELAIS CAN RACK"
+  },
+  "P760000028": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-147_INFLUENCE - Carte UAI 2B LON IN.pdf",
+    "score": 1.137,
+    "product_name": "CARTE UAI 2B LON IN"
+  },
+  "P760000041": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.631,
+    "product_name": "CARTE 4 VOIES LON IN"
+  },
+  "P760000042": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-155_INFLUENCE - Carte DEPORT LPT 24_48 IN.pdf",
+    "score": 0.95,
+    "product_name": "CARTE DEPORT LPT 24/48 IN"
+  },
+  "P760000044": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_60-01_Fiche catalogue - DEPORT LON FTT.pdf",
+    "score": 0.827,
+    "product_name": "CARTE DEPORT LON FTT IN"
+  },
+  "P760000128": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-147_INFLUENCE - Carte UAI 2B LON IN.pdf",
+    "score": 0.715,
+    "product_name": "CARTE UAI 2B LON IN RACK"
+  },
+  "P760000142": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-155_INFLUENCE - Carte DEPORT LPT 24_48 IN.pdf",
+    "score": 0.531,
+    "product_name": "CARTE DEPORT LPT 24/48 IN RACK"
+  },
+  "P760000144": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_60-01_Fiche catalogue - DEPORT LON FTT.pdf",
+    "score": 0.74,
+    "product_name": "CARTE DEPORT LON FTT IN RACK"
+  },
+  "P790000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-142_INFLUENCE - Carte Face avant 2ZA CAN.pdf",
+    "score": 0.409,
+    "product_name": "FACE AVANT OBTURATRICE IN"
+  },
+  "P8620500": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-142_INFLUENCE - Carte Face avant 2ZA CAN.pdf",
+    "score": 0.409,
+    "product_name": "FACE AVANT OBTURATRICE IN"
+  },
+  "600000206": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.735,
+    "product_name": "UTC COM  8 CAB-S V2"
+  },
+  "600000209": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.735,
+    "product_name": "UTC COM  8 CAB-M V2"
+  },
+  "600000210": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.728,
+    "product_name": "UTC COM 16 CAB-M V2"
+  },
+  "600000212": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.735,
+    "product_name": "UTC COM  8 CAB-L V2"
+  },
+  "600000215": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.742,
+    "product_name": "UTC COM  8 RACK V2"
+  },
+  "600000241": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.54,
+    "product_name": "UTC COM8 CAB-M CAT B V2"
+  },
+  "600000270": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.587,
+    "product_name": "UTC COM 8 2FC DIR CAB-S V2"
+  },
+  "600000271": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.587,
+    "product_name": "UTC COM 8 3FC DIR CAB-S V2"
+  },
+  "600000272": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.587,
+    "product_name": "UTC COM 8 7FC DIR CAB-S V2"
+  },
+  "600000289": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.574,
+    "product_name": "UTC COM 8/3F DIR CAB-S CATB V2"
+  },
+  "600000290": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.574,
+    "product_name": "UTC COM 8/7F DIR CAB-S CATB V2"
+  },
+  "600000316": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.749,
+    "product_name": "UTI COM CAB-S V3"
+  },
+  "600000319": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.749,
+    "product_name": "UTI COM CAB-M V3"
+  },
+  "600000320": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.749,
+    "product_name": "UTI COM CAB-L V3"
+  },
+  "600000321": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.635,
+    "product_name": "UTI COM RACK AVEC UGA V3"
+  },
+  "600000324": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.586,
+    "product_name": "CMSI COM CAB-M EQUIPE CF16F V3"
+  },
+  "600000328": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.586,
+    "product_name": "UTI COM/CMSI COM CAB-M CF16 V3"
+  },
+  "600000329": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.586,
+    "product_name": "UTI COM/CMSI COM CAB-L CF16 V3"
+  },
+  "600000330": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.56,
+    "product_name": "CMSI COM CAB-S NON EQUIPE CFV3"
+  },
+  "600000331": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.56,
+    "product_name": "CMSI COM CAB-M NON EQUIPE CFV3"
+  },
+  "600000332": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.56,
+    "product_name": "CMSI COM CAB-L NON EQUIPE CFV3"
+  },
+  "600000333": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.586,
+    "product_name": "CMSI COM RACK NON EQUIPE CF V3"
+  },
+  "600000343": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.759,
+    "product_name": "UTI PACK CAB-S V3"
+  },
+  "600000359": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.59,
+    "product_name": "UTI PACK 2FC DIRECTE CAB-S V3"
+  },
+  "600000360": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.59,
+    "product_name": "UTI PACK 3FC DIRECTE CAB-S V3"
+  },
+  "600000361": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.59,
+    "product_name": "UTI PACK 7FC DIRECTE CAB-S V3"
+  },
+  "600000375": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.591,
+    "product_name": "UTI COM CAB-S SANS UGA V3"
+  },
+  "600000376": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.591,
+    "product_name": "UTI COM CAB-M SANS UGA V3"
+  },
+  "600000377": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.591,
+    "product_name": "UTI COM CAB-L SANS UGA V3"
+  },
+  "600000378": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.595,
+    "product_name": "UTI COM RACK SANS UGA V3"
+  },
+  "600000379": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.577,
+    "product_name": "UTI COM 2FC DIRECTES CAB-S V3"
+  },
+  "600000380": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.577,
+    "product_name": "UTI COM 3FC DIRECTES CAB-S V3"
+  },
+  "600000381": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.577,
+    "product_name": "UTI COM 7FC DIRECTES CAB-S V3"
+  },
+  "643200001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTH.Pack/CAT-CS_01_84-01_Fiche catalogue - UTH.Pack.pdf",
+    "score": 1.0,
+    "product_name": "UTH PACK"
+  },
+  "7650616": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.767,
+    "product_name": "MODULE UTC COM"
+  },
+  "7650617": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.767,
+    "product_name": "MODULE UTI COM"
+  },
+  "7650627": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.615,
+    "product_name": "MODULE CMSI COM 24V/48V"
+  },
+  "7650628": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.671,
+    "product_name": "MODULE UTI PACK RACK"
+  },
+  "7650629": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.586,
+    "product_name": "MODULE CMSI COM 24/48V SANS CF"
+  },
+  "7651617": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.662,
+    "product_name": "MODULE UTI COM EVOL"
+  },
+  "7651628": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.605,
+    "product_name": "MODULE UTI PACK RACK EVOL"
+  },
+  "7653617": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Com/CAT-CS_01_62-01_Fiche catalogue - UTI.Com.pdf",
+    "score": 0.728,
+    "product_name": "MODULE UTI COM V3 G"
+  },
+  "7653627": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.751,
+    "product_name": "MODULE CMSI COM V3"
+  },
+  "7653628": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.655,
+    "product_name": "MODULE UTI PACK RACK V3"
+  },
+  "7653629": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.717,
+    "product_name": "MODULE CMSI COM SS CF V3"
+  },
+  "P710000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INitium/CAT-049_Fiche catalogue - INitium-I ECS-CMSI.pdf",
+    "score": 0.636,
+    "product_name": "INITIUM-I CAB-S"
+  },
+  "P710000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INitium/CAT-049_Fiche catalogue - INitium-I ECS-CMSI.pdf",
+    "score": 0.617,
+    "product_name": "INITIUM-I 2F CAB-S"
+  },
+  "P720000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INitium/CAT-050_Fiche catalogue - INitium-S.pdf",
+    "score": 0.9,
+    "product_name": "INITIUM-S 8F CAB-M"
+  },
+  "P720000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INitium/CAT-050_Fiche catalogue - INitium-S.pdf",
+    "score": 0.9,
+    "product_name": "INITIUM-S 8F CAB-L"
+  },
+  "P720000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INitium/CAT-050_Fiche catalogue - INitium-S.pdf",
+    "score": 0.908,
+    "product_name": "INITIUM-S 8F RACK"
+  },
+  "P740000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-053_INFLUENCE - INfluence-I ECS-UGA.pdf",
+    "score": 0.585,
+    "product_name": "INFLUENCE-I SANS UGA CAB-S"
+  },
+  "P740000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-053_INFLUENCE - INfluence-I ECS-UGA.pdf",
+    "score": 0.585,
+    "product_name": "INFLUENCE-I SANS UGA CAB-M"
+  },
+  "P740000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-053_INFLUENCE - INfluence-I ECS-UGA.pdf",
+    "score": 0.585,
+    "product_name": "INFLUENCE-I SANS UGA CAB-L"
+  },
+  "P740000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-053_INFLUENCE - INfluence-I ECS-UGA.pdf",
+    "score": 0.589,
+    "product_name": "INFLUENCE-I SANS UGA RACK"
+  },
+  "P740000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/INfluence/CAT-047_INFLUENCE - INfluence-S.pdf",
+    "score": 0.621,
+    "product_name": "INFLUENCE-I CAB-S"
+  },
+  "P740000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-135_INFLUENCE - INnova-FAD CMSI.pdf",
+    "score": 0.6,
+    "product_name": "INFLUENCE-I CAB-M"
+  },
+  "P740000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-147_INFLUENCE - Carte UAI 2B LON IN.pdf",
+    "score": 0.596,
+    "product_name": "INFLUENCE-I CAB-L"
+  },
+  "P740000008": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-156_INFLUENCE - INnova-FAD ECS.pdf",
+    "score": 0.61,
+    "product_name": "INFLUENCE-I RACK"
+  },
+  "P740000009": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-147_INFLUENCE - Carte UAI 2B LON IN.pdf",
+    "score": 0.591,
+    "product_name": "INFLUENCE-IS CAB-L"
+  },
+  "P740000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-143_INFLUENCE - Carte 2F DIRECTE CAN.pdf",
+    "score": 0.554,
+    "product_name": "INFLUENCE-I CAB-M 4F DIRECT"
+  },
+  "P740000011": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-143_INFLUENCE - Carte 2F DIRECTE CAN.pdf",
+    "score": 0.554,
+    "product_name": "INFLUENCE-I CAB-M 8F DIRECT"
+  },
+  "P750000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-135_INFLUENCE - INnova-FAD CMSI.pdf",
+    "score": 0.586,
+    "product_name": "INFLUENCE-S CAB-M"
+  },
+  "P750000002": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-147_INFLUENCE - Carte UAI 2B LON IN.pdf",
+    "score": 0.596,
+    "product_name": "INFLUENCE-S CAB-L"
+  },
+  "P750000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-141_INFLUENCE - Carte UES Générale.pdf",
+    "score": 0.591,
+    "product_name": "INFLUENCE-S RACK"
+  },
+  "690000130": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-104_Fiche catalogue - Imprimante Resonance Rack V3.pdf",
+    "score": 1.0,
+    "product_name": "IMPRIMANTE RESONANCE RACK V3"
+  },
+  "640000163": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICF I.Scan+ V2/CAT-169_Fiche catalogue - ICF I.Scan+ V2.pdf",
+    "score": 1.2,
+    "product_name": "ICF I SCAN+ V2"
+  },
+  "640000171": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICF I.Scan+ V2/CAT-169_Fiche catalogue - ICF I.Scan+ V2.pdf",
+    "score": 0.489,
+    "product_name": "ICF ISCAN+ V2 BOITIER IP66"
+  },
+  "408040001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/TEN5 CMSI/CAT-006_Fiche catalogue - TEN5 CMSI.pdf",
+    "score": 0.659,
+    "product_name": "MOD COM. TEN5-CMSI/TEN5-DI"
+  },
+  "408503267": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_71-02_Fiche catalogue - I.Scan+ M ICC.pdf",
+    "score": 0.442,
+    "product_name": "COFFRET INTERFACE ICC"
+  },
+  "450040013": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/Accessoires_outils/CAT-CS_02_37-02_Fiche catalogue - Module de protection SAT C.pdf",
+    "score": 0.561,
+    "product_name": "MODULE DE PROTECTION SATC"
+  },
+  "600200022": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.61,
+    "product_name": "MOD EXT V2 UTEX COM RACK"
+  },
+  "610000011": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-02_Fiche catalogue - UAI 2B AD1000 Lon FTT.pdf",
+    "score": 1.088,
+    "product_name": "UAI 2B AD1000 LON FTT RACK"
+  },
+  "650000001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.63,
+    "product_name": "MODULE COMMUNICATION UTC PACK"
+  },
+  "650000446": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.662,
+    "product_name": "4 VOIES LON UTC COM"
+  },
+  "650000447": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.662,
+    "product_name": "2 VOIES LON UTC COM"
+  },
+  "670000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_01_52-01_Fiche catalogue -  Boîtier ISOLON.pdf",
+    "score": 1.0,
+    "product_name": "BOITIER ISOLON"
+  },
+  "690000015": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.568,
+    "product_name": "CARTE 1 RELAIS"
+  },
+  "690000035": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_65-01_Fiche catalogue - Prolongateur Ethernet DDW-120.pdf",
+    "score": 0.645,
+    "product_name": "PROLONGATEUR DDW-120"
+  },
+  "690000115": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/Accessoires_outils/CAT-CS_02_46-01_Fiche catalogue - MODULE 1 RELAIS RÉSONANCE.pdf",
+    "score": 0.504,
+    "product_name": "MODULE 1 RELAIS DEPORTE"
+  },
+  "690000134": {
+    "fiche": "Fiche catalogue/CAT-228_Fiche catalogue - Switch Ethernet SDI-880.pdf",
+    "score": 1.0,
+    "product_name": "SWITCH ETHERNET SDI-880"
+  },
+  "690300002": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_47-01_Fiche catalogue - INTERFACE JBUS.pdf",
+    "score": 0.695,
+    "product_name": "INTERFACE JBUS RESONANCE BOIT"
+  },
+  "690300003": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_47-01_Fiche catalogue - INTERFACE JBUS.pdf",
+    "score": 0.788,
+    "product_name": "INTERFACE JBUS RESONANCE"
+  },
+  "7650616G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Com/CAT-CS_01_57-01_Fiche catalogue -  UTC.Com.pdf",
+    "score": 0.749,
+    "product_name": "MODULE UTC COM G"
+  },
+  "7653627G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.738,
+    "product_name": "MODULE CMSI COM V3 G"
+  },
+  "7653629G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CMSI.Com/CAT-CS_02_44-01_Fiche catalogue - CMSI.Com.pdf",
+    "score": 0.708,
+    "product_name": "MODULE CMSI COM SS CF V3 G"
+  },
+  "P760000040": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.631,
+    "product_name": "CARTE 2 VOIES LON IN"
+  },
+  "PCE70028": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.41,
+    "product_name": "CARTE FIN LIGNE IN VARIATION"
+  },
+  "690000034": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_60-02_Fiche catalogue - Interface NIC709-IP3E100C.pdf",
+    "score": 1.0,
+    "product_name": "INTERFACE NIC709-IP3E100C"
+  },
+  "690000041": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-038_Fiche catalogue - Convertisseur - L106-F2G - L110-F2G - L210-F2G.pdf",
+    "score": 0.913,
+    "product_name": "CONVERTISSEUR L106-F2G"
+  },
+  "690000050": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-038_Fiche catalogue - Convertisseur - L106-F2G - L110-F2G - L210-F2G.pdf",
+    "score": 0.521,
+    "product_name": "CONVERTISSEUR L110-F2G-12VDC"
+  },
+  "690000051": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-038_Fiche catalogue - Convertisseur - L106-F2G - L110-F2G - L210-F2G.pdf",
+    "score": 0.494,
+    "product_name": "CONVERTISSEUR L210-F2G-12VDC"
+  },
+  "690300005": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE SI/CAT-CS_04_79-01_Fiche catalogue - INTERFACE SI V2.pdf",
+    "score": 1.0,
+    "product_name": "INTERFACE SI V2"
+  },
+  "640000020": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICC/CAT-CS_01_72-02_Fiche catalogue - ICC I.Scan Filaire.pdf",
+    "score": 1.4,
+    "product_name": "ICC I SCAN FILAIRE"
+  },
+  "640000023": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICC/CAT-CS_01_72-01_Fiche catalogue - ICC I.Scan.pdf",
+    "score": 1.082,
+    "product_name": "ICC I SCAN+ BOITIER IP66"
+  },
+  "640000027": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICC/CAT-CS_01_72-01_Fiche catalogue - ICC I.Scan.pdf",
+    "score": 1.4,
+    "product_name": "ICC I SCAN +"
+  },
+  "640000048": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/ICC/CAT-CS_01_72-04_Fiche catalogue - ICC UAI AD1000.pdf",
+    "score": 1.4,
+    "product_name": "ICC UAI AD1000"
+  },
+  "600200300": {
+    "fiche": "Fiche catalogue/Extinction/Interface _ O.I. _ Report _ TRE/CAT-057_Fiche catalogue - Module de puissance V3.pdf",
+    "score": 1.0,
+    "product_name": "MODULE DE PUISSANCE V3"
+  },
+  "640000140": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/M501MEA/CAT-025_Fiche catalogue - M501MEA.pdf",
+    "score": 1.0,
+    "product_name": "M501MEA"
+  },
+  "640000141": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/M501MEA/CAT-025_Fiche catalogue - M501MEA.pdf",
+    "score": 0.589,
+    "product_name": "M501MEA BOITIER IP66"
+  },
+  "450040006": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_06-01_Fiche catalogue - MODULE DAS.pdf",
+    "score": 0.44,
+    "product_name": "MODULE MAP"
+  },
+  "600200001": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_06-01_Fiche catalogue - MODULE DAS.pdf",
+    "score": 1.0,
+    "product_name": "MODULE DAS"
+  },
+  "600200028": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_06-02_Fiche catalogue - MODULE DAS SATC Identifiable.pdf",
+    "score": 1.0,
+    "product_name": "MODULE DAS SATC IDENTIFIABLE"
+  },
+  "640000098": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_06-01_Fiche catalogue - MODULE DAS.pdf",
+    "score": 0.433,
+    "product_name": "MODULE RACCORDEMENT DAS (x5)"
+  },
+  "690200024": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_15_05-01_Fiche catalogue - Parafoudre bus Lon FTT_I.Scan.pdf",
+    "score": 0.447,
+    "product_name": "PARAFOUDRE LON FTT DLAHW-24D3"
+  },
+  "690000017": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_49-01_Fiche catalogue - ROUTEUR Lon LIP-3ECTC - LIP-3333ECTC.pdf",
+    "score": 0.6,
+    "product_name": "ROUTEUR LIP-3ECTC"
+  },
+  "690000052": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_49-01_Fiche catalogue - ROUTEUR Lon LIP-3ECTC - LIP-3333ECTC.pdf",
+    "score": 0.622,
+    "product_name": "ROUTEUR LIP-3333ECTC"
+  },
+  "690000133": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-163_Fiche catalogue - Répétiteur LRW-702-F2.pdf",
+    "score": 0.552,
+    "product_name": "REPETEUR LRW-702-F2"
+  },
+  "690000936": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_66-01_Fiche catalogue - INTERFACE EDW-100.pdf",
+    "score": 1.0,
+    "product_name": "INTERFACE EDW-100"
+  },
+  "640100019": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-178_Fiche catalogue - RTS151KEY.pdf",
+    "score": 1.0,
+    "product_name": "RTS151KEY"
+  },
+  "670000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/REPORT/CAT-CS_09_01-01_Fiche catalogue - MONO.rep.pdf",
+    "score": 1.0,
+    "product_name": "MONO REP"
+  },
+  "670000009": {
+    "fiche": "Fiche catalogue/Extinction/Interface _ O.I. _ Report _ TRE/CAT-CS_09_12-01_Fiche catalogue - RS.Rep Ext.pdf",
+    "score": 1.0,
+    "product_name": "RS REP+ EXT"
+  },
+  "670000102": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-137_Fiche catalogue - TRE IN.REP+ EVAC - EVAC_MES.pdf",
+    "score": 0.637,
+    "product_name": "TRE RS REP EVAC/MES"
+  },
+  "690100309": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-CS_02_59-01_Fiche catalogue - TERMINAL.COM UAE.pdf",
+    "score": 0.834,
+    "product_name": "TERMINAL COM UAE CAB-S V3"
+  },
+  "690100312": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-CS_02_59-02_Fiche catalogue - TERMINAL.COM FAD.pdf",
+    "score": 0.84,
+    "product_name": "TERMINAL COM FAD RACK V3"
+  },
+  "690100313": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-CS_02_59-02_Fiche catalogue - TERMINAL.COM FAD.pdf",
+    "score": 0.834,
+    "product_name": "TERMINAL COM FAD CAB-S V3"
+  },
+  "690100314": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-CS_02_59-03_Fiche catalogue - TERMINAL.COM MCO.pdf",
+    "score": 0.84,
+    "product_name": "TERMINAL COM MCO RACK V3"
+  },
+  "P760000055": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-137_Fiche catalogue - TRE IN.REP+ EVAC - EVAC_MES.pdf",
+    "score": 0.889,
+    "product_name": "IN.REP+ EVAC"
+  },
+  "P760000056": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-137_Fiche catalogue - TRE IN.REP+ EVAC - EVAC_MES.pdf",
+    "score": 0.631,
+    "product_name": "IN.REP+ EVAC/MES"
+  },
+  "P760000057": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-107_Fiche catalogue - Répétiteur TRE RS485 - IN.Rep+ EXT.pdf",
+    "score": 0.846,
+    "product_name": "IN.REP+ EXT"
+  },
+  "P780000007": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-156_INFLUENCE - INnova-FAD ECS.pdf",
+    "score": 0.491,
+    "product_name": "INNOVA-FAD ECS CAB-S"
+  },
+  "P780000008": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-156_INFLUENCE - INnova-FAD ECS.pdf",
+    "score": 0.495,
+    "product_name": "INNOVA-FAD ECS RACK"
+  },
+  "P780000009": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-135_INFLUENCE - INnova-FAD CMSI.pdf",
+    "score": 0.5,
+    "product_name": "INNOVA-FAD CMSI RACK"
+  },
+  "P780000010": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-044_Fiche catalogue - INnova-TRE.pdf",
+    "score": 1.0,
+    "product_name": "INNOVA-TRE"
+  },
+  "P780000011": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-135_INFLUENCE - INnova-FAD CMSI.pdf",
+    "score": 0.496,
+    "product_name": "INNOVA-FAD CMSI CAB-M"
+  },
+  "P780000012": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-135_INFLUENCE - INnova-FAD CMSI.pdf",
+    "score": 0.496,
+    "product_name": "INNOVA-FAD CMSI CAB-L"
+  },
+  "630000003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_38-01_Fiche catalogue - SATI LON FTT.pdf",
+    "score": 0.525,
+    "product_name": "SATI 4 VOIES LON FTT"
+  },
+  "630000004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_38-01_Fiche catalogue - SATI LON FTT.pdf",
+    "score": 0.525,
+    "product_name": "SATI 8 VOIES LON FTT"
+  },
+  "630000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_38-01_Fiche catalogue - SATI LON FTT.pdf",
+    "score": 0.435,
+    "product_name": "SATI 8 VOIES LON FTT RACK"
+  },
+  "630000019": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_37-01_Fiche catalogue - SATC LON LPT.pdf",
+    "score": 0.506,
+    "product_name": "SATC 4 VOIES LON LPT V2"
+  },
+  "630000020": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_37-01_Fiche catalogue - SATC LON LPT.pdf",
+    "score": 0.506,
+    "product_name": "SATC 8 VOIES LON LPT V2"
+  },
+  "630000021": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.574,
+    "product_name": "SATC 8 RELAIS LON LPT V2"
+  },
+  "P760000029": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-152_INFLUENCE - Carte SATI 4_8 VOIES IN.pdf",
+    "score": 0.588,
+    "product_name": "SATI 4 VOIES IN"
+  },
+  "P760000030": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-152_INFLUENCE - Carte SATI 4_8 VOIES IN.pdf",
+    "score": 0.588,
+    "product_name": "SATI 8 VOIES IN"
+  },
+  "P760000031": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-153_INFLUENCE - Carte SATC 4_8 VOIES IN.pdf",
+    "score": 0.588,
+    "product_name": "SATC 4 VOIES IN"
+  },
+  "P760000032": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-153_INFLUENCE - Carte SATC 4_8 VOIES IN.pdf",
+    "score": 0.588,
+    "product_name": "SATC 8 VOIES IN"
+  },
+  "P760000033": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.437,
+    "product_name": "SATC 8 RELAIS IN"
+  },
+  "P760000034": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-149_INFLUENCE - Carte 4_8 VOIES CAN.pdf",
+    "score": 0.622,
+    "product_name": "CARTE 4 VOIES CAN"
+  },
+  "P760000035": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-149_INFLUENCE - Carte 4_8 VOIES CAN.pdf",
+    "score": 0.622,
+    "product_name": "CARTE 8 VOIES CAN"
+  },
+  "P760000130": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-152_INFLUENCE - Carte SATI 4_8 VOIES IN.pdf",
+    "score": 0.514,
+    "product_name": "CARTE SATI 8 VOIES IN RACK"
+  },
+  "P760000135": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-149_INFLUENCE - Carte 4_8 VOIES CAN.pdf",
+    "score": 0.5,
+    "product_name": "CARTE 8 VOIES CAN RACK"
+  },
+  "680000017": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-023_Fiche catalogue - Serveur OPC.pdf",
+    "score": 0.7,
+    "product_name": "SERVEUR OPC LON ACTIVA"
+  },
+  "680000018": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-023_Fiche catalogue - Serveur OPC.pdf",
+    "score": 0.811,
+    "product_name": "SERVEUR OPC TSIA"
+  },
+  "680000020": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-023_Fiche catalogue - Serveur OPC.pdf",
+    "score": 0.75,
+    "product_name": "SERVEUR OPC CONCENTRATEUR"
+  },
+  "680000021": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-023_Fiche catalogue - Serveur OPC.pdf",
+    "score": 0.773,
+    "product_name": "SERVEUR OPC RESONANCE"
+  },
+  "680000035": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/CAT-023_Fiche catalogue - Serveur OPC.pdf",
+    "score": 0.683,
+    "product_name": "SERVEUR OPC RESONANCE GTC"
+  },
+  "640200057": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-101_Fiche catalogue - ECSAV SECURIVOC - CSNF08-NF.pdf",
+    "score": 0.427,
+    "product_name": "COFFRET ECSAV CSNF08"
+  },
+  "640200063": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-114_Fiche catalogue - Pupitre microphone SECURIVOC SPAM100.pdf",
+    "score": 0.652,
+    "product_name": "PUPITRE MICROPHONE SPAM100"
+  },
+  "005200070": {
+    "fiche": "Fiche catalogue/Détection incendie/Transmetteur/CAT-161_Fiche catalogue - Transmetteur ATS1500A-IP-MM.pdf",
+    "score": 0.905,
+    "product_name": "ATS1500A IP-MM"
+  },
+  "005200076": {
+    "fiche": "Fiche catalogue/Détection incendie/Transmetteur/CAT-161_Fiche catalogue - Transmetteur ATS1500A-IP-MM.pdf",
+    "score": 0.591,
+    "product_name": "ATS1500A IP-MM-HK"
+  },
+  "680000050": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.783,
+    "product_name": "OPTIMA VISION UAE 150 PTS"
+  },
+  "680000051": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.783,
+    "product_name": "OPTIMA VISION UAE 300 PTS"
+  },
+  "680000052": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.783,
+    "product_name": "OPTIMA VISION UAE 500 PTS"
+  },
+  "680000053": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.777,
+    "product_name": "OPTIMA VISION UAE 1000 PTS"
+  },
+  "680000054": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.777,
+    "product_name": "OPTIMA VISION UAE 2500 PTS"
+  },
+  "680000055": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.777,
+    "product_name": "OPTIMA VISION UAE 5000 PTS"
+  },
+  "680000056": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.772,
+    "product_name": "OPTIMA VISION UAE 10000 PTS"
+  },
+  "680000071": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.492,
+    "product_name": "OPTIMA VISION VIEWER (x1)"
+  },
+  "680000072": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.492,
+    "product_name": "OPTIMA VISION VIEWER (x5)"
+  },
+  "680000073": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.492,
+    "product_name": "OPTIMA VISION PROTOCOLE"
+  },
+  "680000074": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.418,
+    "product_name": "OPTIMA VISION MAIN COURANTE"
+  },
+  "680000075": {
+    "fiche": "Fiche catalogue/Détection incendie/supervision/OPTIMA VISION/CAT-029_Fiche catalogue - Optima Vision UAE.pdf",
+    "score": 0.51,
+    "product_name": "OPTIMA VISION BACKUP"
+  },
+  "P0V450": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.4,
+    "product_name": "ULTRALED 2000"
+  },
+  "P02363": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_01_52-01_Fiche catalogue -  Boîtier ISOLON.pdf",
+    "score": 0.432,
+    "product_name": "BOITIER DIFFUSION"
+  },
+  "600200012": {
+    "fiche": "Fiche catalogue/Extinction/Accessoires_outils/CAT-CS_N_01-01_Fiche catalogue - DAOV PYROTECHNIQUE V2.pdf",
+    "score": 1.0,
+    "product_name": "DAOV PYROTECHNIQUE V2"
+  },
+  "600200301": {
+    "fiche": "Fiche catalogue/Extinction/Accessoires_outils/CAT-056_Fiche catalogue - DAOV électrique V3.pdf",
+    "score": 1.0,
+    "product_name": "DAOV ELECTRIQUE V3"
+  },
+  "600100010": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.641,
+    "product_name": "COFFRET M DEPORTE UTEX COM"
+  },
+  "600100202": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.783,
+    "product_name": "UTEX PACK 3ZD V2"
+  },
+  "600100203": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.783,
+    "product_name": "UTEX PACK 6ZD V2"
+  },
+  "600100204": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.645,
+    "product_name": "UTEX COM 2 ZONES CAB-S V2"
+  },
+  "600100205": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.645,
+    "product_name": "UTEX COM 2 ZONES CAB-M V2"
+  },
+  "600100206": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.645,
+    "product_name": "UTEX COM 2 ZONES CAB-L V2"
+  },
+  "600100207": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.65,
+    "product_name": "UTEX COM 2 ZONES RACK V2"
+  },
+  "600100208": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.593,
+    "product_name": "COF DEPORT UTEX COM CAB-S V2"
+  },
+  "600100211": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.633,
+    "product_name": "Utex Com 2Z CAB.S V2 partiel"
+  },
+  "600100212": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.633,
+    "product_name": "Utex Com 2Z CAB.M V2 partiel"
+  },
+  "600100213": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.633,
+    "product_name": "Utex Com 2Z CAB.L V2 partiel"
+  },
+  "600100214": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.637,
+    "product_name": "Utex Com 2Z Rack V2 partiel"
+  },
+  "B07850201": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_01_73-01_Fiche catalogue - BOITIER TEST DAS CONTRÔLE.pdf",
+    "score": 0.483,
+    "product_name": "BOITIER DE CONTROLE DIMES"
+  },
+  "600200004": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.597,
+    "product_name": "MODULE AFF DEPORTE UTEX COM"
+  },
+  "600200005": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.63,
+    "product_name": "MODULE 1Z EXTINCTION UTEX COM"
+  },
+  "600200009": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.56,
+    "product_name": "MODULE 1ZONE EXT UTEX COM RACK"
+  },
+  "600200021": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.645,
+    "product_name": "MOD EXTENSION V2 UTEX COM"
+  },
+  "600200023": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.593,
+    "product_name": "MOD DIR 20 VOIES V2 UTEX COM"
+  },
+  "600200024": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.59,
+    "product_name": "MOD 20 VOIES V2 UTEX COM RACK"
+  },
+  "600200025": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.593,
+    "product_name": "MOD DIR 10 VOIES V2 UTEX COM"
+  },
+  "600200026": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.59,
+    "product_name": "MOD 10 VOIES V2 UTEX COM RACK"
+  },
+  "600200027": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.678,
+    "product_name": "MODULE LON UTEX COM"
+  },
+  "7650634": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.775,
+    "product_name": "MODULE UTEX COM"
+  },
+  "P0HGV4": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSI/CAT-165_Fiche catalogue - Détecteur OSI-RIE-4.pdf",
+    "score": 0.41,
+    "product_name": "DETECTEUR PORTABLE CO"
+  },
+  "640100001": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/I.Scan _ I.Scan+/CAT-CS_04_75-02_Fiche catalogue - SOCLE I.Scan+.pdf",
+    "score": 0.502,
+    "product_name": "PERCHE ISOLANTE SCAN"
+  },
+  "640100003": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_88-01_Fiche catalogue - VALISE TEST DÉTECTEUR.pdf",
+    "score": 0.413,
+    "product_name": "BOL TEST DETECTEUR FUMEE"
+  },
+  "640100033": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_35-01_Fiche catalogue - SMOKE PEN.pdf",
+    "score": 1.0,
+    "product_name": "SMOKE PEN"
+  },
+  "640100034": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_35-01_Fiche catalogue - SMOKE PEN.pdf",
+    "score": 0.721,
+    "product_name": "RECHARGE POUR SMOKE PEN (x6)"
+  },
+  "690100017": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_04_98-01_Fiche catalogue - TESTIFIRE.pdf",
+    "score": 0.659,
+    "product_name": "CAPSULE POUR TESTIFIRE (x3)"
+  },
+  "640100002": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-139_Fiche catalogue - Valise Test I.Scan+.pdf",
+    "score": 0.47,
+    "product_name": "EXTENSION 1,2M PERCHE SCAN"
+  },
+  "640100007": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-Fich E 131_Fiche catalogue - OUTIL DE DEMONTAGE.PDF",
+    "score": 0.407,
+    "product_name": "OUTIL UNIVERSEL DE DEMONTAGE"
+  },
+  "640100052": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_01_70-01_Fiche catalogue - CHUBB.Lon.pdf",
+    "score": 0.421,
+    "product_name": "CHUBB PROG"
+  },
+  "640400007": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-172_Fiche catalogue - Fournisseur - OSID.pdf",
+    "score": 0.447,
+    "product_name": "KIT INSTALLATION OSID"
+  },
+  "690100001R": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_01_70-01_Fiche catalogue - CHUBB.Lon.pdf",
+    "score": 0.812,
+    "product_name": "CHUBB LON REN"
+  },
+  "690100023": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-CS_01_70-01_Fiche catalogue - CHUBB.Lon.pdf",
+    "score": 0.418,
+    "product_name": "CHUBB CONNECT"
+  },
+  "B07830031": {
+    "fiche": "Fiche catalogue/Détection incendie/Déclencheur manuel/BG2E/CAT-005_Fiche catalogue - DM ATEX BG2E - Fiche ADF.pdf",
+    "score": 0.811,
+    "product_name": "FICHE"
+  },
+  "690000053": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-Fich E 47_Fiche catalogue - SUPPORT FAUX PLANCHER.PDF",
+    "score": 0.434,
+    "product_name": "ETIQUETTE POUR FAUX PLANCHER"
+  },
+  "743600078": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-11_Fiche catalogue - DISPOSITIF ARRET D'URGENCE 10080.pdf",
+    "score": 0.536,
+    "product_name": "ETIQ DISPOSITIF ARRET URGENCE"
+  },
+  "7492911": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-036_Fiche catalogue - VESDA VLI.pdf",
+    "score": 0.403,
+    "product_name": "PVC LABEL VESDA SAMPLING POINT"
+  },
+  "P790000107": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-044_Fiche catalogue - INnova-TRE.pdf",
+    "score": 0.682,
+    "product_name": "LIBELLES INNOVA TRE x50"
+  },
+  "P09214": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.45,
+    "product_name": "P.PVC DECLENCHEUR MANUEL"
+  },
+  "P09215": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-10_Fiche catalogue - DÉCLENCHEUR MANUEL ÉLECTRIQUE 10070.pdf",
+    "score": 0.447,
+    "product_name": "P.PHOT DECLENCHEUR MANUEL"
+  },
+  "P0D954": {
+    "fiche": "Fiche catalogue/Extinction/Déclencheur manuel/CAT-CS_N_10-11_Fiche catalogue - DISPOSITIF ARRET D'URGENCE 10080.pdf",
+    "score": 0.455,
+    "product_name": "ARRET D'URGENCE - PVC"
+  },
+  "440100331": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-221_Fiche catalogue - Détecteurs FAAST FLEX - FLX-010-NF _ FLX-020-NF.pdf",
+    "score": 0.433,
+    "product_name": "ADAPTATEURS FAAST FLEX"
+  },
+  "440102995": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/440102995/CAT-220_Fiche catalogue - Détecteurs VESDA-E VEA-040-A00-NF _ VEA-040-A10-NF.pdf",
+    "score": 0.688,
+    "product_name": "VESDA-E VEA VEA-040-A00 (led)"
+  },
+  "440102996": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/440102995/CAT-220_Fiche catalogue - Détecteurs VESDA-E VEA-040-A00-NF _ VEA-040-A10-NF.pdf",
+    "score": 0.789,
+    "product_name": "VESDA-E VEA-040-A10 NF"
+  },
+  "P0V765": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/Batterie/CAT-010_Fiche catalogue - YUCEL 12V -  17Ah.pdf",
+    "score": 0.46,
+    "product_name": "BATTERIE 12V 17AH"
+  },
+  "443200023": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-CS_04_36-01_Fiche catalogue - DLD 2000.pdf",
+    "score": 0.655,
+    "product_name": "BRIDE FIXATION DLD 2000"
+  },
+  "P0J242": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-CS_04_100-01_Fiche catalogue - VESDA LASER SCANNER.pdf",
+    "score": 0.425,
+    "product_name": "CANNE"
+  },
+  "640000180": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.453,
+    "product_name": "F. AVANT SEULE DISP. MODULASER"
+  },
+  "640000181": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.444,
+    "product_name": "F. AVANT SEULE DET. MODULASER"
+  },
+  "P770000005": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-168_Fiche catalogue - Bloc gestion alim coffret _ rack.pdf",
+    "score": 0.973,
+    "product_name": "BLOC GESTION ALIM COFFRET"
+  },
+  "P770000006": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-168_Fiche catalogue - Bloc gestion alim coffret _ rack.pdf",
+    "score": 0.654,
+    "product_name": "BLOC GESTION ALIM RACK"
+  },
+  "P790000016": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.46,
+    "product_name": "KIT CFL IN VARIATION EXT"
+  },
+  "P790000017": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-04_Fiche catalogue - VARIATION 940 - Chargeur.pdf",
+    "score": 0.45,
+    "product_name": "MOD CFL IN VARIATION CAB L"
+  },
+  "P790000018": {
+    "fiche": "Fiche catalogue/Détection incendie/Alimentation/VARIATION 940/CAT-CS_08_23-03_Fiche catalogue - VARIATION 940 - Coffret.pdf",
+    "score": 0.443,
+    "product_name": "MOD CFL IN VARIATION RACK"
+  },
+  "P8800003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-168_Fiche catalogue - Bloc gestion alim coffret _ rack.pdf",
+    "score": 0.917,
+    "product_name": "BLOC GESTION ALIM"
+  },
+  "630000027": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-058_Fiche catalogue - Kit Filtre Déport Lon LPT_MD8V.pdf",
+    "score": 1.0,
+    "product_name": "KIT FILTRE DEPORT LON LPT/MD8V"
+  },
+  "CE00192": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-058_Fiche catalogue - Kit Filtre Déport Lon LPT_MD8V.pdf",
+    "score": 0.419,
+    "product_name": "CARTE FILTRE LON MD8V V10 G"
+  },
+  "CE00257": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_62-01_Fiche catalogue - CARTE LON PCLTA-21.pdf",
+    "score": 0.413,
+    "product_name": "CARTE ISOLATEUR LON"
+  },
+  "CE00421": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.595,
+    "product_name": "CARTE AFFICHAGE UAC 16ZD/R DIR"
+  },
+  "CE00445G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.626,
+    "product_name": "CARTE DE COMMUNICAT UTC PACK G"
+  },
+  "CE00446": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.5,
+    "product_name": "CARTE 4 VOIES LON DIRECTE"
+  },
+  "CE00446G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.493,
+    "product_name": "CARTE 4 VOIES LON DIRECTE G"
+  },
+  "CE00447": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.5,
+    "product_name": "CARTE 2 VOIES LON DIRECTE"
+  },
+  "CE00447G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.493,
+    "product_name": "CARTE 2 VOIES LON DIRECTE G"
+  },
+  "CE00448": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.695,
+    "product_name": "CARTE ALIM 24V DEPORT LON LPT"
+  },
+  "CE00448G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.731,
+    "product_name": "CARTE ALIM 24 DEPORT LON LPT G"
+  },
+  "CE00449": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.695,
+    "product_name": "CARTE ALIM 48V DEPORT LON LPT"
+  },
+  "CE00449G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_61-01_Fiche catalogue - DEPORT LON LPT.pdf",
+    "score": 0.731,
+    "product_name": "CARTE ALIM48V DEPORT LON LPT G"
+  },
+  "CE00487": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-03_Fiche catalogue - CFC 3-7F DIRECTE.pdf",
+    "score": 0.713,
+    "product_name": "CARTE AFFICH CFC 3/7F DIRECTE"
+  },
+  "CE00487G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-03_Fiche catalogue - CFC 3-7F DIRECTE.pdf",
+    "score": 0.718,
+    "product_name": "CARTE AFF CFC 3/7F DIRECTE G"
+  },
+  "CE00530": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_62-01_Fiche catalogue - CARTE LON PCLTA-21.pdf",
+    "score": 0.4,
+    "product_name": "CARTE LON REP EVAC V2"
+  },
+  "CE00552": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.593,
+    "product_name": "CARTE AFFICH ZONE UTEX COM G"
+  },
+  "CE00556": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.671,
+    "product_name": "CARTE LON UTEX COM G"
+  },
+  "CE00557": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.597,
+    "product_name": "CARTE AFF DEPORTEE UTEX COM"
+  },
+  "CE00925": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-009_Fiche catalogue - VESDA Laser PLUS.pdf",
+    "score": 0.753,
+    "product_name": "CARTE AFFICHEUR VESDA LASER+"
+  },
+  "CE00926": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-CS_04_100-01_Fiche catalogue - VESDA LASER SCANNER.pdf",
+    "score": 0.777,
+    "product_name": "CARTE AFF.SCANNER VESDA LASER+"
+  },
+  "CE00927": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-009_Fiche catalogue - VESDA Laser PLUS.pdf",
+    "score": 0.761,
+    "product_name": "CARTE PROGRAM. VESDA LASER+"
+  },
+  "CE70052": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.631,
+    "product_name": "CARTE 4 VOIES LON IN"
+  },
+  "I2730495": {
+    "fiche": "Fiche catalogue/Extinction/Accessoires_outils/CAT-056_Fiche catalogue - DAOV électrique V3.pdf",
+    "score": 0.42,
+    "product_name": "MOD REN DAOV ELECTRIQUE"
+  },
+  "P760000027": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-141_INFLUENCE - Carte UES Générale.pdf",
+    "score": 0.935,
+    "product_name": "CARTE UES GENERALE"
+  },
+  "P8800001": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-141_INFLUENCE - Carte UES Générale.pdf",
+    "score": 0.935,
+    "product_name": "CARTE UES GENERALE"
+  },
+  "CE00553": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.586,
+    "product_name": "CARTE CHANTIER ZONE UTEX COM G"
+  },
+  "CE00555": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.655,
+    "product_name": "CARTE 10 VOIES UTEX COM"
+  },
+  "CE00558": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.655,
+    "product_name": "CARTE 20 VOIES UTEX COM"
+  },
+  "CE00559": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.63,
+    "product_name": "CARTE EXTENSION UTEX COM V2 G"
+  },
+  "CE00562": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Com/CAT-CS_N_16-01_Fiche catalogue - UTEX Com.pdf",
+    "score": 0.633,
+    "product_name": "CARTE 10 VOIES UTEX COM V2 G"
+  },
+  "CE00290": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CHORUS T4S NFS/CAT-CS_07_09-01_Fiche catalogue - CHORUS T4S NFS.pdf",
+    "score": 0.429,
+    "product_name": "CARTE CHORUS T4P NFS"
+  },
+  "CE00292": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CHORUS T4S NFS/CAT-CS_07_09-01_Fiche catalogue - CHORUS T4S NFS.pdf",
+    "score": 0.847,
+    "product_name": "CARTE CHORUS T4S NFS"
+  },
+  "CE00299": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CHORUS T4S Me/CAT-CS_07_10-01_Fiche catalogue - CHORUS T4S Me.pdf",
+    "score": 0.81,
+    "product_name": "CARTE CHORUS T4S ME"
+  },
+  "CE00293": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_13-02_Fiche catalogue - SON'ECLA BAAS Ma Me V.pdf",
+    "score": 0.611,
+    "product_name": "CARTE BAAS MA ME"
+  },
+  "CE00294": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_14-04_Fiche catalogue - SON'ECLA BAAS Sa Me V.pdf",
+    "score": 0.611,
+    "product_name": "CARTE BAAS SA ME"
+  },
+  "CE00317": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_13-02_Fiche catalogue - SON'ECLA BAAS Ma Me V.pdf",
+    "score": 0.576,
+    "product_name": "CARTE BAAS MA"
+  },
+  "CE00318": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-CS_07_14-04_Fiche catalogue - SON'ECLA BAAS Sa Me V.pdf",
+    "score": 0.576,
+    "product_name": "CARTE BAAS SA"
+  },
+  "CE00401": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-079_Fiche catalogue - SON'ECLA BAAS Pr NN.pdf",
+    "score": 0.474,
+    "product_name": "CARTE MERE BAAS PR 2B à 8B G"
+  },
+  "CE00402": {
+    "fiche": "Fiche catalogue/Détection incendie/BAAS/SON'ECLA/CAT-079_Fiche catalogue - SON'ECLA BAAS Pr NN.pdf",
+    "score": 0.477,
+    "product_name": "CARTE AFF BAAS PR 2B à 8B G"
+  },
+  "CE00060": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/TEN5 CMSI/CAT-006_Fiche catalogue - TEN5 CMSI.pdf",
+    "score": 0.575,
+    "product_name": "CARTE MERE TEN5-CMSI VERS. CMS"
+  },
+  "CE00060AM": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/TEN5 CMSI/CAT-006_Fiche catalogue - TEN5 CMSI.pdf",
+    "score": 0.575,
+    "product_name": "CARTE MERE TEN5-CMSI VERS. DIL"
+  },
+  "CE00573": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.678,
+    "product_name": "CARTE CMSI UTI µPACK"
+  },
+  "CE00472": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.602,
+    "product_name": "CARTE MERE UTEX PACK AMBIANCE"
+  },
+  "CE00473A": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.572,
+    "product_name": "CARTE AFF UTEX PACK AMBIAN 6ZD"
+  },
+  "CE00473B": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.572,
+    "product_name": "CARTE AFF UTEX PACK AMBIAN 3ZD"
+  },
+  "CE00473C": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.575,
+    "product_name": "CARTE AFF UTEX PACK OBJET 2ZD"
+  },
+  "CE00477": {
+    "fiche": "Fiche catalogue/Extinction/Centrale/UTEX.Pack/CAT-CS_N_10-01_Fiche catalogue - UTEX.Pack.pdf",
+    "score": 0.614,
+    "product_name": "CARTE MERE UTEX PACK OBJET"
+  },
+  "CE00575": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.59,
+    "product_name": "CARTE MERE UTI µPACK AUTRONICA"
+  },
+  "CE00444A": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.655,
+    "product_name": "CARTE UTC PACK 4ZD/2F G"
+  },
+  "CE00444B": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.655,
+    "product_name": "CARTE UTC PACK 4ZD/4F G"
+  },
+  "CE00444C": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.593,
+    "product_name": "CARTE UTC PACK 4ZD/2F EVOL G"
+  },
+  "CE00444D": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.593,
+    "product_name": "CARTE UTC PACK 4ZD/4F EVOL G"
+  },
+  "CE00459": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.671,
+    "product_name": "CARTE UTC PACK 4ZD G"
+  },
+  "CE01044GC": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.59,
+    "product_name": "CARTE UTC PACK 4ZD/2F EVOL V2"
+  },
+  "CE01059G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.666,
+    "product_name": "CARTE UTC PACK 4ZD V2"
+  },
+  "CE00324G": {
+    "fiche": "Fiche catalogue/Détection incendie/Alarme technique/AT4/CAT-CS_03_12-01_Fiche catalogue - AT4.pdf",
+    "score": 0.469,
+    "product_name": "CARTE AT4 SANS RELAIS G"
+  },
+  "CE00424": {
+    "fiche": "Fiche catalogue/Détection incendie/Alarme technique/AT8/CAT-CS_03_13-01_Fiche catalogue - AT8 _ AT16.pdf",
+    "score": 0.433,
+    "product_name": "CARTE AT16"
+  },
+  "CE00424G": {
+    "fiche": "Fiche catalogue/Détection incendie/Alarme technique/AT8/CAT-CS_03_13-01_Fiche catalogue - AT8 _ AT16.pdf",
+    "score": 0.41,
+    "product_name": "CARTE AT16 G"
+  },
+  "CE00461": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_45-01_Fiche catalogue - UTD.Com.pdf",
+    "score": 0.758,
+    "product_name": "CARTE UTD COM G"
+  },
+  "7629320": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-134_INFLUENCE - Carte SAT C 8 relais IN.pdf",
+    "score": 0.579,
+    "product_name": "CARTE 8 RELAIS"
+  },
+  "CE00108": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_62-01_Fiche catalogue - CARTE LON PCLTA-21.pdf",
+    "score": 0.432,
+    "product_name": "CARTE SY-LON ACTIVACOM"
+  },
+  "CE00419": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.624,
+    "product_name": "CARTE UCR  8 RELAIS LON FTT"
+  },
+  "CE00420": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.63,
+    "product_name": "CARTE UCR 16 RELAIS LON FTT"
+  },
+  "CE00426": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.624,
+    "product_name": "CARTE UCR+ 8 RELAIS LON FTT"
+  },
+  "CE00426G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.618,
+    "product_name": "CARTE UCR+ 8 RELAIS LON FTT G"
+  },
+  "CE00427": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.63,
+    "product_name": "CARTE UCR+ 16 RELAIS LON FTT"
+  },
+  "CE00427G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.625,
+    "product_name": "CARTE UCR+ 16 RELAIS LON FTT G"
+  },
+  "CE00430": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.46,
+    "product_name": "CARTE SAT C 8 VOIES LON LPT"
+  },
+  "CE00433": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.448,
+    "product_name": "CARTE SAT C 4 VOIES LON LPT"
+  },
+  "CE00436": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.433,
+    "product_name": "CARTE SAT I 4 VOIES LON FTT"
+  },
+  "CE00436G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.427,
+    "product_name": "CARTE SAT I 4 VOIES LON FTT G"
+  },
+  "CE00437": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.423,
+    "product_name": "CARTE SAT I 8 VOIES LON FTT"
+  },
+  "CE00437G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-151_INFLUENCE - Carte 2_4 VOIES LON IN.pdf",
+    "score": 0.417,
+    "product_name": "CARTE SAT I 8 VOIES LON FTT G"
+  },
+  "CE00439": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_41-01_Fiche catalogue - CF 16F Lon FTT.pdf",
+    "score": 0.425,
+    "product_name": "CARTE CF16 LON FTT"
+  },
+  "CE00439G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_41-01_Fiche catalogue - CF 16F Lon FTT.pdf",
+    "score": 0.412,
+    "product_name": "CARTE CF16 LON FTT G"
+  },
+  "CE00440": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_42-01_Fiche catalogue - CF 8F_2ZA Lon FTT.pdf",
+    "score": 0.431,
+    "product_name": "CARTE CF8/2 ZA LON FTT"
+  },
+  "CE00440G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_42-01_Fiche catalogue - CF 8F_2ZA Lon FTT.pdf",
+    "score": 0.42,
+    "product_name": "CARTE CF8/2 ZA LON FTT G"
+  },
+  "CE00441": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_39-01_Fiche catalogue - CF 4ZA Lon FTT.pdf",
+    "score": 0.436,
+    "product_name": "CARTE CF4ZA LON FTT"
+  },
+  "CE00441G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_39-01_Fiche catalogue - CF 4ZA Lon FTT.pdf",
+    "score": 0.423,
+    "product_name": "CARTE CF4ZA LON FTT G"
+  },
+  "CE00464": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_43-01_Fiche catalogue - CF16ZA UGA-IGH Lon FTT.pdf",
+    "score": 0.897,
+    "product_name": "CARTE CF16ZA UGA IGH LON FTT"
+  },
+  "CE00464G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_43-01_Fiche catalogue - CF16ZA UGA-IGH Lon FTT.pdf",
+    "score": 0.887,
+    "product_name": "CARTE CF16ZA UGA IGH LON FTT G"
+  },
+  "CE00480": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.884,
+    "product_name": "CARTE SAT C 8 RELAIS LON LPT"
+  },
+  "CE00480G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.874,
+    "product_name": "CARTE SAT C 8 RELAIS LON LPT G"
+  },
+  "CE00480GA": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-134_INFLUENCE - Carte SAT C 8 relais IN.pdf",
+    "score": 0.507,
+    "product_name": "CARTE SATC 8 RELAIS IN"
+  },
+  "CE00481": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_40-02_Fiche catalogue - CFC 2F DIRECTE.pdf",
+    "score": 0.695,
+    "product_name": "CARTE CHANTIER CFC 2F DIRECTE"
+  },
+  "CE00571": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.65,
+    "product_name": "CARTE 20 RELAIS UTI µPACK"
+  },
+  "CE00572": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.65,
+    "product_name": "CARTE 10 RELAIS UTI µPACK"
+  },
+  "CE10430": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.46,
+    "product_name": "CARTE SAT C 8 VOIES LON LPT"
+  },
+  "CE10430B": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-153_INFLUENCE - Carte SATC 4_8 VOIES IN.pdf",
+    "score": 0.633,
+    "product_name": "CARTE SATC 8 VOIES IN"
+  },
+  "CE10433": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_02_58-01_Fiche catalogue - SAT C 8 relais Lon LPT.pdf",
+    "score": 0.448,
+    "product_name": "CARTE SAT C 4 VOIES LON LPT"
+  },
+  "CE10433B": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-153_INFLUENCE - Carte SATC 4_8 VOIES IN.pdf",
+    "score": 0.633,
+    "product_name": "CARTE SATC 4 VOIES IN"
+  },
+  "CE70055": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-152_INFLUENCE - Carte SATI 4_8 VOIES IN.pdf",
+    "score": 0.633,
+    "product_name": "CARTE SATI 4 VOIES IN"
+  },
+  "CE70056": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-152_INFLUENCE - Carte SATI 4_8 VOIES IN.pdf",
+    "score": 0.633,
+    "product_name": "CARTE SATI 8 VOIES IN"
+  },
+  "PCE70003": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-145_INFLUENCE - Carte Face avant 8F CAN.pdf",
+    "score": 0.636,
+    "product_name": "CARTE FACE AVANT 2F CAN"
+  },
+  "PCE70004": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-145_INFLUENCE - Carte Face avant 8F CAN.pdf",
+    "score": 0.946,
+    "product_name": "CARTE FACE AVANT 8F CAN"
+  },
+  "PCE70013": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-142_INFLUENCE - Carte Face avant 2ZA CAN.pdf",
+    "score": 0.948,
+    "product_name": "CARTE FACE AVANT 2ZA CAN"
+  },
+  "PCE70016": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.834,
+    "product_name": "CARTE UCR 12 RELAIS CAN"
+  },
+  "PCE70017": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-150_INFLUENCE - Carte UCR 12_24 RELAIS CAN.pdf",
+    "score": 0.834,
+    "product_name": "CARTE UCR 24 RELAIS CAN"
+  },
+  "PCE70025": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-149_INFLUENCE - Carte 4_8 VOIES CAN.pdf",
+    "score": 0.622,
+    "product_name": "CARTE 4 VOIES CAN"
+  },
+  "PCE70026": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-149_INFLUENCE - Carte 4_8 VOIES CAN.pdf",
+    "score": 0.622,
+    "product_name": "CARTE 8 VOIES CAN"
+  },
+  "CE00096": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_62-01_Fiche catalogue - CARTE LON PCLTA-21.pdf",
+    "score": 0.457,
+    "product_name": "CARTE LON CONCENTRATEUR"
+  },
+  "CE00097": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_62-01_Fiche catalogue - CARTE LON PCLTA-21.pdf",
+    "score": 0.48,
+    "product_name": "CARTE LON GPI"
+  },
+  "CE00435": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-167_INFLUENCE - Carte Déport FTT IN.pdf",
+    "score": 0.913,
+    "product_name": "CARTE DEPORT FTT"
+  },
+  "CE00445": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTC.Pack/CAT-033_Fiche catalogue - UTC.Pack.pdf",
+    "score": 0.633,
+    "product_name": "CARTE DE COMMUNICAT UTC PACK"
+  },
+  "CE00467": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-CS_02_47-01_Fiche catalogue - INTERFACE JBUS.pdf",
+    "score": 0.721,
+    "product_name": "CARTE INTERFACE JBUS LON"
+  },
+  "CE10434": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-155_INFLUENCE - Carte DEPORT LPT 24_48 IN.pdf",
+    "score": 0.482,
+    "product_name": "CARTE DEPORT LPT EVOL"
+  },
+  "CE10434G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-155_INFLUENCE - Carte DEPORT LPT 24_48 IN.pdf",
+    "score": 0.486,
+    "product_name": "CARTE DEPORT LPT EVOL G"
+  },
+  "CE10435": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-167_INFLUENCE - Carte Déport FTT IN.pdf",
+    "score": 0.504,
+    "product_name": "CARTE DEPORT FTT EVOL"
+  },
+  "CE10435G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-167_INFLUENCE - Carte Déport FTT IN.pdf",
+    "score": 0.496,
+    "product_name": "CARTE DEPORT FTT EVOL G"
+  },
+  "CE70051": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-155_INFLUENCE - Carte DEPORT LPT 24_48 IN.pdf",
+    "score": 0.95,
+    "product_name": "CARTE DEPORT LPT 24/48 IN"
+  },
+  "CE00397": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-01_Fiche catalogue - UAI 2B I.Scan LON FTT.pdf",
+    "score": 0.914,
+    "product_name": "CARTE UAI 2 BUS I SCAN LON FTT"
+  },
+  "CE00422": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_63-01_Fiche catalogue - UAC LON FTT.pdf",
+    "score": 0.578,
+    "product_name": "CARTE UAC 16ZD 16R LON FTT"
+  },
+  "CE00422G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.571,
+    "product_name": "CARTE UAC 16ZD 16R LON FTT G"
+  },
+  "CE00431": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.51,
+    "product_name": "CARTE CHANTIER UAC 16Z/R DIR"
+  },
+  "CE00431G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.505,
+    "product_name": "CARTE CHANTIER UAC 16Z/R DIR G"
+  },
+  "CE00462": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.62,
+    "product_name": "CARTE UAC 8Z/8R DIR"
+  },
+  "CE00462G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 0.614,
+    "product_name": "CARTE UAC 8Z/8R DIR G"
+  },
+  "CE00463": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_63-01_Fiche catalogue - UAC LON FTT.pdf",
+    "score": 0.64,
+    "product_name": "CARTE UAC 16ZD LON FTT"
+  },
+  "CE00463G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_63-01_Fiche catalogue - UAC LON FTT.pdf",
+    "score": 0.629,
+    "product_name": "CARTE UAC 16ZD LON FTT G"
+  },
+  "CE00471": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-02_Fiche catalogue - UAI 2B AD1000 Lon FTT.pdf",
+    "score": 0.719,
+    "product_name": "CARTE UAI 2BUS AD1000 LON FTT"
+  },
+  "CE00471G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-02_Fiche catalogue - UAI 2B AD1000 Lon FTT.pdf",
+    "score": 0.595,
+    "product_name": "CARTE UAI 2BUS AD1000 LONFTT G"
+  },
+  "CE00496": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-05_Fiche catalogue - UAI 2B SPECTRAL LON FTT.pdf",
+    "score": 0.649,
+    "product_name": "CARTE UAI 2B SPECTRAL LONFTT G"
+  },
+  "CE00928": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-009_Fiche catalogue - VESDA Laser PLUS.pdf",
+    "score": 0.402,
+    "product_name": "CARTE TERM.7 RELAIS LASER+"
+  },
+  "CE10397": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-01_Fiche catalogue - UAI 2B I.Scan LON FTT.pdf",
+    "score": 0.835,
+    "product_name": "CARTE UAI 2B ISCAN LON FTT EVO"
+  },
+  "CE10397G": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-CS_01_65-01_Fiche catalogue - UAI 2B I.Scan LON FTT.pdf",
+    "score": 0.885,
+    "product_name": "CARTE UAI 2B ISCAN LON FTT G"
+  },
+  "CE70054": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-147_INFLUENCE - Carte UAI 2B LON IN.pdf",
+    "score": 1.137,
+    "product_name": "CARTE UAI 2B LON IN"
+  },
+  "PCE70015": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/CAT-148_INFLUENCE - Carte UAC 16ZD CAN.pdf",
+    "score": 1.135,
+    "product_name": "CARTE UAC 16ZD CAN"
+  },
+  "CE00465": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-137_Fiche catalogue - TRE IN.REP+ EVAC - EVAC_MES.pdf",
+    "score": 0.499,
+    "product_name": "CARTE LON REP EVAC/EVAC MES"
+  },
+  "CE00465A": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-CS_09_11-01_Fiche catalogue - TRE LON.Rep.pdf",
+    "score": 0.407,
+    "product_name": "CARTE LON REP EVAC"
+  },
+  "CE00465B": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-137_Fiche catalogue - TRE IN.REP+ EVAC - EVAC_MES.pdf",
+    "score": 0.462,
+    "product_name": "CARTE LON REP EVAC MES"
+  },
+  "CE00531": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-137_Fiche catalogue - TRE IN.REP+ EVAC - EVAC_MES.pdf",
+    "score": 0.44,
+    "product_name": "CARTE LON REP EVAC MES V2 G"
+  },
+  "CE00574": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/UTI.Pack/CAT-CS_01_62-03_Fiche catalogue - UTI.Pack.pdf",
+    "score": 0.645,
+    "product_name": "CARTE REPETITEUR UTI µPACK"
+  },
+  "440110903": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-067_Fiche catalogue - VESDA-E VEU-A00-NF _ VEU-A10-NF.pdf",
+    "score": 0.453,
+    "product_name": "VESDA-E VEA40 MOUNTING BRACKET"
+  },
+  "640400014": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/OSID/CAT-018_Fiche catalogue - Détecteur de fumée - OSID.pdf",
+    "score": 0.473,
+    "product_name": "CABLE FTDI 1,5M OSID"
+  },
+  "P0J209": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P0J254": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P0J330": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P0J367": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.565,
+    "product_name": "DIFFUSEUR 6/9"
+  },
+  "P0J408": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P0J412": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P0J464": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P0J468": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "P14621": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.85,
+    "product_name": "DIFFUSEUR"
+  },
+  "7492927": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-179_Fiche catalogue - Détecteurs VESDA-E VES.pdf",
+    "score": 0.467,
+    "product_name": "CACHE VIS x2 POUR VESDA"
+  },
+  "2730165": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/INTERFACE/CAT-059_Fiche catalogue - Module de Réarmement.pdf",
+    "score": 1.0,
+    "product_name": "MODULE DE REARMEMENT"
+  },
+  "P0L514": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/C.Scan _ C.Scan+/CAT-CS_04_55-01_Fiche catalogue - Socle C.Scan+.pdf",
+    "score": 0.4,
+    "product_name": "SOCLE PD6 GA"
+  },
+  "450020036": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_07-01_Fiche catalogue - FILTRE DAS.pdf",
+    "score": 0.973,
+    "product_name": "FILTRE DAS G"
+  },
+  "640000907": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/MODULASER/CAT-164_Fiche catalogue - Détecteur STRATOS Modulaser.pdf",
+    "score": 0.471,
+    "product_name": "FILTRE DETECT. MODULASER/HSSD2"
+  },
+  "7492938": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/VESDA/CAT-179_Fiche catalogue - Détecteurs VESDA-E VES.pdf",
+    "score": 0.44,
+    "product_name": "BOITIER + FILTRE VESDA E70D"
+  },
+  "P0J593": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_07-01_Fiche catalogue - FILTRE DAS.pdf",
+    "score": 0.44,
+    "product_name": "FILTRE EAU"
+  },
+  "P0JFB5": {
+    "fiche": "Fiche catalogue/Détection incendie/DAS_DAC/CAT-CS_06_07-01_Fiche catalogue - FILTRE DAS.pdf",
+    "score": 0.6,
+    "product_name": "FILTRE 6/9L"
+  },
+  "P790000108": {
+    "fiche": "Fiche catalogue/Détection incendie/Interface _ O.I. _ Report _ TRE/TRE/CAT-044_Fiche catalogue - INnova-TRE.pdf",
+    "score": 0.688,
+    "product_name": "MASQUES INNOVA TRE x50"
+  },
+  "640000086": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-130_Fiche catalogue - Socle haut S3 - C.Scan+.pdf",
+    "score": 0.487,
+    "product_name": "PILE LITHIUM 3V POUR R.SCAN"
+  },
+  "640400012": {
+    "fiche": "Fiche catalogue/Détection incendie/Détecteur _ socle/CAT-172_Fiche catalogue - Fournisseur - OSID.pdf",
+    "score": 0.503,
+    "product_name": "PILE POUR EMETTEUR OSID"
+  },
+  "P0J592": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/Accessoires_outils/CAT-CS_02_37-02_Fiche catalogue - Module de protection SAT C.pdf",
+    "score": 0.4,
+    "product_name": "GAINE DE PROTECTION"
+  },
+  "P0J619": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/Accessoires_outils/CAT-CS_02_37-02_Fiche catalogue - Module de protection SAT C.pdf",
+    "score": 0.4,
+    "product_name": "GAINE DE PROTECTION"
+  },
+  "P0J627": {
+    "fiche": "Fiche catalogue/Détection incendie/Centrale/Accessoires_outils/CAT-CS_02_37-02_Fiche catalogue - Module de protection SAT C.pdf",
+    "score": 0.422,
+    "product_name": "TULIPE DE PROTECTION"
+  },
+  "P0P612": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-01_Fiche catalogue - Diffuseur SECURIVOC STE 510.pdf",
+    "score": 0.412,
+    "product_name": "DIFFUSEUR EUROPONS 25"
+  },
+  "P0P613": {
+    "fiche": "Fiche catalogue/Détection incendie/Dispositif sonore _ lumineux/CAT-CS_07_20-03_Fiche catalogue - Diffuseur SECURIVOC SDS 313WT.pdf",
+    "score": 0.416,
+    "product_name": "DIFFUSEUR EUROPONS 33"
+  },
+  "2716006": {
+    "fiche": "Fiche catalogue/Détection incendie/Accessoires_outils/CAT-Fich E 47_Fiche catalogue - SUPPORT FAUX PLANCHER.PDF",
+    "score": 0.403,
+    "product_name": "SUPPORT DETECTEUR F-PLANCHER"
+  }
+}

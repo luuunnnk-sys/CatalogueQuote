@@ -1,0 +1,25 @@
+{
+  "name": "chubb-catalogue-pro",
+  "version": "2.0.0",
+  "description": "Catalogue produits Chubb SSI - Application multi-utilisateurs sécurisée",
+  "main": "src/backend/server.js",
+  "scripts": {
+    "start": "node src/backend/server.js",
+    "dev": "node src/backend/server.js",
+    "init-db": "node src/backend/utils/initDatabase.js",
+    "create-admin": "node src/backend/utils/createAdmin.js"
+  },
+  "keywords": ["chubb", "catalogue", "ssi", "securite-incendie"],
+  "author": "Chubb SSI",
+  "license": "PROPRIETARY",
+  "dependencies": {
+    "express": "^4.18.2",
+    "better-sqlite3": "^9.4.3",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^7.1.5",
+    "dotenv": "^16.4.1"
+  }
+}

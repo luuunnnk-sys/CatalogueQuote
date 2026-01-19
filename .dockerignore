@@ -1,0 +1,21 @@
+# Ignorer pour Docker
+node_modules
+npm-debug.log
+.env
+.git
+.gitignore
+*.md
+*.py
+*.csv
+.DS_Store
+Thumbs.db
+
+# Fichiers de développement
+*.log
+.vscode
+.idea
+
+# Anciens fichiers (version standalone)
+index.html
+styles.css
+app_data.js
