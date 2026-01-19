@@ -16,7 +16,6 @@ const App = {
 
     // Filtres
     currentSSIFilter: 'all',
-    currentTypeFilter: null,
     currentStatusFilter: null,
     currentPage: 1,
     filteredProducts: [],
@@ -94,8 +93,6 @@ const App = {
                     desc: product.description || '',
                     famille: product.famille || '',
                     sous_famille: product.sous_famille || '',
-                    // Utiliser uniquement les types pré-définis dans les données
-                    type: product.type || null,
                     ssi: product.ssi || this.detectSSI(product),
                     hasFiche: !!product.fiche,
                     url: product.fiche ? `/fiches/${product.fiche}` : null,
@@ -107,8 +104,6 @@ const App = {
 
             // Calculer les stats
             this.stats.total = this.products.length;
-            this.stats.adressable = this.products.filter(p => p.type === 'adressable').length;
-            this.stats.conventionnel = this.products.filter(p => p.type === 'conventionnel').length;
 
             // Calculer les catégories SSI
             this.calculateSSICategories();
@@ -118,38 +113,6 @@ const App = {
             Toast.error('Erreur lors du chargement des produits');
             console.error(error);
         }
-    },
-
-    /**
-     * Détecte le type de système
-     */
-    detectType(product) {
-        const text = `${product.name || ''} ${product.description || ''} ${product.famille || ''} ${product.sous_famille || ''}`.toLowerCase();
-
-        // Mots-clés pour adressable
-        const adressableKeywords = [
-            'adressable', 'adress', 'adr ', 'nexus', 'initium', 'influence',
-            'i.scan', 'iscan', 'c.scan', 'cscan', 'laser.scan', 'laserscan',
-            'lon ftt', 'lon lpt', 'spectral', 'sati', 'activacom',
-            'uti.com', 'utc.com', 'uth.pack', 'uti.pack', 'uti.micro',
-            'uai ', 'uac ', 'ucr ', 'satc', ' sati'
-        ];
-
-        // Mots-clés pour conventionnel
-        const conventionnelKeywords = [
-            'conventionnel', 'convent', '4 fils', '2 fils',
-            'collectif', 'directe', 'ten5', 'tsc1'
-        ];
-
-        for (const kw of adressableKeywords) {
-            if (text.includes(kw)) return 'adressable';
-        }
-
-        for (const kw of conventionnelKeywords) {
-            if (text.includes(kw)) return 'conventionnel';
-        }
-
-        return null;
     },
 
     /**
@@ -242,8 +205,6 @@ const App = {
      */
     updateStats() {
         document.getElementById('statTotal').textContent = this.stats.total.toLocaleString();
-        document.getElementById('statAdressable').textContent = this.stats.adressable.toLocaleString();
-        document.getElementById('statConventionnel').textContent = this.stats.conventionnel.toLocaleString();
         document.getElementById('filterAllCount').textContent = this.stats.total.toLocaleString();
 
         // Mettre à jour les compteurs SSI
@@ -254,16 +215,10 @@ const App = {
             }
         });
 
-        // Compteurs type
-        document.querySelectorAll('.filter-item[data-type]').forEach(item => {
-            const type = item.dataset.type;
-            const count = this.products.filter(p => p.type === type).length;
-            item.querySelector('.count').textContent = count.toLocaleString();
-        });
-
         // Compteur fiches
         const ficheCount = this.products.filter(p => p.hasFiche || p.url).length;
-        document.querySelector('[data-status="fiche"] .count').textContent = ficheCount.toLocaleString();
+        const ficheEl = document.querySelector('[data-status="fiche"] .count');
+        if (ficheEl) ficheEl.textContent = ficheCount.toLocaleString();
     },
 
     /**
@@ -287,22 +242,6 @@ const App = {
                 document.querySelectorAll('.filter-item[data-ssi]').forEach(i => i.classList.remove('active'));
                 item.classList.add('active');
                 this.currentSSIFilter = item.dataset.ssi;
-                this.currentPage = 1;
-                this.performSearch();
-            });
-        });
-
-        // Filtres Type
-        document.querySelectorAll('.filter-item[data-type]').forEach(item => {
-            item.addEventListener('click', () => {
-                if (item.classList.contains('active')) {
-                    item.classList.remove('active');
-                    this.currentTypeFilter = null;
-                } else {
-                    document.querySelectorAll('.filter-item[data-type]').forEach(i => i.classList.remove('active'));
-                    item.classList.add('active');
-                    this.currentTypeFilter = item.dataset.type;
-                }
                 this.currentPage = 1;
                 this.performSearch();
             });
@@ -395,11 +334,6 @@ const App = {
             this.filteredProducts = this.filteredProducts.filter(p => p.ssi === this.currentSSIFilter);
         }
 
-        // Filtre Type
-        if (this.currentTypeFilter) {
-            this.filteredProducts = this.filteredProducts.filter(p => p.type === this.currentTypeFilter);
-        }
-
         // Filtre Status
         if (this.currentStatusFilter === 'fiche') {
             this.filteredProducts = this.filteredProducts.filter(p => p.hasFiche || p.url);
@@ -462,8 +396,6 @@ const App = {
         const isSelected = this.selectedProducts.some(p => p.code === product.code);
         let tags = '';
 
-        if (product.type === 'adressable') tags += '<span class="tag tag-adressable">Adressable</span>';
-        if (product.type === 'conventionnel') tags += '<span class="tag tag-conventionnel">Conventionnel</span>';
         if (product.hasFiche || product.url) tags += '<span class="tag tag-fiche">Fiche</span>';
 
         const priceDisplay = product.price ? `<div class="product-price">${product.price} €</div>` : '';
@@ -591,7 +523,6 @@ const App = {
 
         html += '<div class="info-section"><div class="info-section-title">Informations</div><div class="info-grid">';
         html += `<div class="info-item"><div class="info-value">${product.price || '-'}</div><div class="info-label">Prix (EUR)</div></div>`;
-        html += `<div class="info-item"><div class="info-value">${product.type || '-'}</div><div class="info-label">Système</div></div>`;
         html += `<div class="info-item"><div class="info-value">${product.ssi ? this.ssiCategories[product.ssi]?.name : '-'}</div><div class="info-label">Fonction SSI</div></div>`;
         html += '</div></div>';
 
