@@ -94,11 +94,12 @@ const App = {
                     desc: product.description || '',
                     famille: product.famille || '',
                     sous_famille: product.sous_famille || '',
-                    type: this.detectType(product),
-                    ssi: this.detectSSI(product),
+                    // Utiliser type/ssi des données si présents, sinon détecter
+                    type: product.type || this.detectType(product),
+                    ssi: product.ssi || this.detectSSI(product),
                     hasFiche: !!product.fiche,
                     url: product.fiche ? `/fiches/${product.fiche}` : null,
-                    keywords: this.extractKeywords(product)
+                    keywords: product.keywords || this.extractKeywords(product)
                 };
                 this.products.push(p);
                 this.productIndex[code] = p;
