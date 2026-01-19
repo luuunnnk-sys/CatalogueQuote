@@ -34,16 +34,7 @@ if (!process.env.JWT_SECRET || process.env.JWT_SECRET.includes('REMPLACER')) {
 
 // Middleware de sécurité
 app.use(helmet({
-    contentSecurityPolicy: {
-        directives: {
-            defaultSrc: ["'self'"],
-            styleSrc: ["'self'", "'unsafe-inline'", "https://fonts.googleapis.com"],
-            fontSrc: ["'self'", "https://fonts.gstatic.com"],
-            scriptSrc: ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com"],
-            imgSrc: ["'self'", "data:", "blob:"],
-            connectSrc: ["'self'"]
-        }
-    }
+    contentSecurityPolicy: false // Désactivé pour permettre les event handlers inline
 }));
 
 // CORS
