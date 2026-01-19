@@ -73,8 +73,22 @@ app.use('/api/favoris', favorisRoutes);
 app.use('/api/preferences', preferencesRoutes);
 app.use('/api/products', productsRoutes);
 
+// Headers pour éviter les problèmes de cache
+app.use((req, res, next) => {
+    // Désactiver le cache pour les fichiers HTML et JS
+    if (req.path.endsWith('.html') || req.path.endsWith('.js') || req.path === '/') {
+        res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+        res.setHeader('Pragma', 'no-cache');
+        res.setHeader('Expires', '0');
+    }
+    next();
+});
+
 // Servir les fichiers statiques du frontend
-app.use(express.static(path.join(__dirname, '../frontend')));
+app.use(express.static(path.join(__dirname, '../frontend'), {
+    etag: false,
+    lastModified: false
+}));
 
 // Servir les fichiers PDF des fiches catalogue
 app.use('/fiches', express.static(path.join(__dirname, '../../Fiche catalogue')));
