@@ -9,7 +9,6 @@ const App = {
     selectedProducts: [],
     quoteChapters: [],
     quoteClientInfo: { name: '', address: '', project: '' },
-    flashInfo: [],
     ssiCategories: {},
     stats: { total: 0, adressable: 0, conventionnel: 0 },
     favoris: [],
@@ -58,7 +57,6 @@ const App = {
         this.performSearch();
         this.updateQuoteView();
         this.updateClientInfoFields();
-        this.renderFlashInfo();
     },
 
     /**
@@ -268,9 +266,6 @@ const App = {
             clearTimeout(this.searchTimeout);
             this.searchTimeout = setTimeout(() => this.performSearch(), this.DEBOUNCE_DELAY);
         });
-
-        // Flash search
-        document.getElementById('flashSearch')?.addEventListener('input', () => this.renderFlashInfo());
 
         // Raccourcis clavier
         document.addEventListener('keydown', e => {
