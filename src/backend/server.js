@@ -21,6 +21,9 @@ const productsRoutes = require('./routes/products');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Trust proxy pour Koyeb/hébergeurs cloud
+app.set('trust proxy', 1);
+
 // Vérifier la présence du JWT_SECRET
 if (!process.env.JWT_SECRET || process.env.JWT_SECRET.includes('REMPLACER')) {
     console.error('ERREUR: JWT_SECRET non configuré dans le fichier .env');
