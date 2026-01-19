@@ -80,7 +80,35 @@ function initTables() {
     console.log('Tables de la base de données initialisées');
 }
 
+// Créer le compte admin initial si nécessaire
+async function createAdminIfNeeded() {
+    const bcrypt = require('bcryptjs');
+
+    const adminEmail = process.env.ADMIN_EMAIL;
+    const adminPassword = process.env.ADMIN_PASSWORD;
+
+    if (!adminEmail || !adminPassword) {
+        console.log('Variables ADMIN_EMAIL/ADMIN_PASSWORD non définies, pas de création admin auto');
+        return;
+    }
+
+    // Vérifier si l'admin existe déjà
+    const existingAdmin = db.prepare('SELECT id FROM users WHERE email = ?').get(adminEmail);
+
+    if (!existingAdmin) {
+        const passwordHash = await bcrypt.hash(adminPassword, 12);
+        db.prepare(`
+            INSERT INTO users (email, password_hash, nom, prenom, role, actif)
+            VALUES (?, ?, 'Admin', 'Système', 'admin', 1)
+        `).run(adminEmail, passwordHash);
+        console.log(`Compte admin créé: ${adminEmail}`);
+    } else {
+        console.log(`Compte admin existant: ${adminEmail}`);
+    }
+}
+
 // Initialiser les tables au chargement
 initTables();
+createAdminIfNeeded();
 
 module.exports = db;
