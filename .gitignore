@@ -30,3 +30,8 @@ build/
 *.temp
 nul
 .claude/
+
+# Fichiers volumineux (non deployés)
+Fiche catalogue/
+_ressources/
+_archives/
