@@ -94,8 +94,8 @@ const App = {
                     desc: product.description || '',
                     famille: product.famille || '',
                     sous_famille: product.sous_famille || '',
-                    // Utiliser type/ssi des données si présents, sinon détecter
-                    type: product.type || this.detectType(product),
+                    // Utiliser uniquement les types pré-définis dans les données
+                    type: product.type || null,
                     ssi: product.ssi || this.detectSSI(product),
                     hasFiche: !!product.fiche,
                     url: product.fiche ? `/fiches/${product.fiche}` : null,
