@@ -123,13 +123,31 @@ const App = {
      * Détecte le type de système
      */
     detectType(product) {
-        const text = `${product.name || ''} ${product.description || ''} ${product.famille || ''}`.toLowerCase();
-        if (text.includes('adressable') || text.includes('nexus') || text.includes('initium')) {
-            return 'adressable';
+        const text = `${product.name || ''} ${product.description || ''} ${product.famille || ''} ${product.sous_famille || ''}`.toLowerCase();
+
+        // Mots-clés pour adressable
+        const adressableKeywords = [
+            'adressable', 'adress', 'adr ', 'nexus', 'initium', 'influence',
+            'i.scan', 'iscan', 'c.scan', 'cscan', 'laser.scan', 'laserscan',
+            'lon ftt', 'lon lpt', 'spectral', 'sati', 'activacom',
+            'uti.com', 'utc.com', 'uth.pack', 'uti.pack', 'uti.micro',
+            'uai ', 'uac ', 'ucr ', 'satc', ' sati'
+        ];
+
+        // Mots-clés pour conventionnel
+        const conventionnelKeywords = [
+            'conventionnel', 'convent', '4 fils', '2 fils',
+            'collectif', 'directe', 'ten5', 'tsc1'
+        ];
+
+        for (const kw of adressableKeywords) {
+            if (text.includes(kw)) return 'adressable';
         }
-        if (text.includes('conventionnel')) {
-            return 'conventionnel';
+
+        for (const kw of conventionnelKeywords) {
+            if (text.includes(kw)) return 'conventionnel';
         }
+
         return null;
     },
 
